@@ -1,23 +1,4 @@
-
-This is a [Next.js](https://nextjs.org) bolierplate
-
-## Getting start
-
-1. Clone repository;
-2. npm install;
-3. ncu -u for prevent an issue;
-
-## Changes
-
-- next.config.ts;
-- eslint.config.mjs;
-
-## Features
-
-- Base FSD structure;
-- Custom hook with tailwind merge;
-
-## List of added dependites
+# Dependites
 
 ["@radix-ui/react-icons"](https://www.npmjs.com/package/@radix-ui/react-icons)</br>
 ["clsx"](https://www.npmjs.com/package/clsx)</br>
