@@ -1,13 +1,13 @@
 import Image from "next/image";
 
-import Carousel from "@/modules/blog/ui/carousel/Carousel";
-import Container from "@/shared/ui/Container";
+import Carousel from "@/modules/blog/carousel/ui/Carousel";
+import AllBlog from "@/modules/blog/blog-posts/ui/AllBlog";
 
 export default function Home() {
   return (
-    <section>
+    <>
       <Carousel />
-      <Container>HEROO</Container>
-    </section>
+      <AllBlog />
+    </>
   );
 }
