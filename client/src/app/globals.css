@@ -15,6 +15,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+  letter-spacing: 0.25;
 }
 
 
@@ -28,6 +29,20 @@ h2 {
   @apply font-bold;
 }
 
+h4 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+}
+
+a {
+  text-decoration: none;
+}
+
 .logo-nav h2 em {
   @apply text-orange text-[36px];
 }
@@ -39,10 +54,40 @@ h2 {
 }
 
 .wrapper {
-  @apply container;
+  @apply container px-4;
   margin: 0 auto;
+
 }
 
 ul {
   list-style: none;
+}
+
+.navbar {
+  z-index: 99999;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar__list {
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navbar__item {
+  border-bottom: 1px solid #eee;
+}
+
+.navbar__item a {
+  display: block;
+  @apply py-4 uppercase tracking-[0.5];
 }

@@ -12,6 +12,7 @@ const routes = [
   { name: "All News", path: "/news" },
   { name: "Incidents", path: "/incidents" },
 ];
+
 export default function Header() {
   const activePathName = usePathname();
 
@@ -20,7 +21,7 @@ export default function Header() {
       <Container>
         <div className="flex justify-between items-center py-7 font-bold">
           <Logo />
-          <nav className="h-full flex items-center text-xl">
+          <nav className="h-full hidden md:flex  items-center text-xl ">
             <ul className="flex gap-8 ">
               {routes.map((route) => (
                 <li key={route.path}>
@@ -38,6 +39,24 @@ export default function Header() {
               ))}
             </ul>
           </nav>
+          <div className="md:hidden navbar" id="navbarResponsive">
+            <ul className="navbar__list">
+              {routes.map((route) => (
+                <li key={route.path} className="navbar__item">
+                  <Link
+                    href={route.path}
+                    className={clsx(
+                      "hover:text-orange",
+                      { "text-orange": activePathName === route.path },
+                      { "text-text": activePathName !== route.path },
+                    )}
+                  >
+                    {route.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
       </Container>
     </header>

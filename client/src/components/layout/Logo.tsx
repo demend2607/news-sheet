@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function Logo() {
   return (
-    <Link href="/" className="logo-nav">
+    <Link href="/" className="logo">
       <h2>
         Logo <em>|</em>
       </h2>

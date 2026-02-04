@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-import Carousel from "@/modules/blog/carousel/ui/Carousel";
-import AllBlog from "@/modules/blog/blog-posts/ui/AllBlog";
+import Carousel from "@/modules/home/carousel/ui/Carousel";
+import AllBlog from "@/modules/home/hero-main/ui/HeroMain";
 
 export default function Home() {
   return (
