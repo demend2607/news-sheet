@@ -1,0 +1,2522 @@
+{
+    "main": {
+        "id": 190434,
+        "type": "reportage",
+        "title": "Одиннадцатилетний мальчик поскользнулся и попал под колеса Toyota (ФОТО)",
+        "lead": "В Хабаровске во дворе на Тихоокеанской автомобиль Toyota Vanguard наехал на ногу 11-летнему мальчику, который поскользнулся и упал. Ребенка отправили на обследование в краевую больницу.",
+        "publishedAt": "2026-02-05T14:45:55+10:00",
+        "settings": {
+            "advert": false,
+            "commentsDisabled": true
+        },
+        "images": [
+            {
+                "type": "main",
+                "image": {
+                    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
+                    "color": "#5c7089",
+                    "dark": true,
+                    "width": 1280,
+                    "height": 720,
+                    "files": {
+                        "default": "https://cdn.dvhab.ru/news/1770266078734_default",
+                        "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+                    }
+                }
+            },
+            {
+                "type": "preview",
+                "image": {
+                    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
+                    "color": "#5c7089",
+                    "dark": true,
+                    "width": 1280,
+                    "height": 720,
+                    "files": {
+                        "default": "https://cdn.dvhab.ru/news/1770266078734_default",
+                        "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+                    }
+                }
+            }
+        ],
+        "categories": [
+            {
+                "name": "Происшествия",
+                "slug": "incidents"
+            }
+        ],
+        "compilations": [],
+        "commentsCount": 0
+    },
+    "mainImage": {
+        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
+        "color": "#5c7089",
+        "dark": true,
+        "width": 1280,
+        "height": 720,
+        "files": {
+            "default": "https://cdn.dvhab.ru/news/1770266078734_default",
+            "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+        }
+    },
+    "pins": [],
+    "category": {
+        "name": "Происшествия",
+        "slug": "incidents",
+        "seoTitle": "Происшествия в Хабаровске",
+        "seoDescription": "Новости происшествий в Хабаровске. Информация о криминале, дтп, убийствах, грабежах в Хабаровске. Оперативная информация с места происшествия.",
+        "seoKeywords": "новости происшествия, место происшествия, дтп, транспортное происшествие, дорожное происшествие, осмотр, грабеж, кража, убийство"
+    },
+    "stories": [
+        {
+            "id": 190472,
+            "type": "reportage",
+            "title": "Стоящую в подъезде коляску сожгли подростки",
+            "lead": "Один из несовершеннолетних был объявлен отцом в розыск, так как накануне не вернулся домой. Второй мальчик проживает в Центре помощи семье и детям, его мать ведет асоциальный образ жизни, на сына влияния не оказывает.",
+            "publishedAt": "2026-02-06T15:23:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBQCdASogABsAPm0uk0akIqGhKAqogA2JQBOmWi8N4oz11kZvEX27skh6BWkgShGPzLMV5Zp4eAD+CyUiRQmyoXVZPn0alDUg5a/7kowoHBrY1X5KTpzw+de2wyOV3tUufj8+ApFfS6qD2fPicvBcJMr5NmzWjzX+vazm7R2cf+cD1cMd9qxLQVv78dp7eR5I5z4HJe11ByqEzTtp1ucEtsT86zZiXTTBfeMAzC9XySMlOJV64340mLHo1k08TB8AAA==",
+                        "color": "#9a9aa8",
+                        "dark": false,
+                        "width": 1269,
+                        "height": 713,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770347815300_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770347815990_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBQCdASogABsAPm0uk0akIqGhKAqogA2JQBOmWi8N4oz11kZvEX27skh6BWkgShGPzLMV5Zp4eAD+CyUiRQmyoXVZPn0alDUg5a/7kowoHBrY1X5KTpzw+de2wyOV3tUufj8+ApFfS6qD2fPicvBcJMr5NmzWjzX+vazm7R2cf+cD1cMd9qxLQVv78dp7eR5I5z4HJe11ByqEzTtp1ucEtsT86zZiXTTBfeMAzC9XySMlOJV64340mLHo1k08TB8AAA==",
+                        "color": "#9a9aa8",
+                        "dark": false,
+                        "width": 1269,
+                        "height": 713,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770347815300_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770347815990_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190458,
+            "type": "reportage",
+            "title": "Автоледи из Хабаровска осудили за подделку документов для получения прав",
+            "lead": "Краснофлотский районный суд Хабаровска признал местную жительницу виновной в подделке медицинской справки и водительского удостоверения для замены прав. По версии обвинения, девушка приобрела поддельные документы у инструктора автошколы за 5 000 рублей.",
+            "publishedAt": "2026-02-06T12:43:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBgCdASogABsAPm0mkUWkIaGb+qwAQAbEsYBYj3kA4HjI/hZx+hBEUoGV6yHATzfY5Goug8/I8UgA/qrdmraTMw/KBRTbqlZKwFbzg8wHlFRWl03+Jg5MdZ3aWE8eqPKymksyI/fKkit3LZ2VazH6/G+cUONKTM7oWEK1uHkr675uFmOf+lC6hgoHONQVdtvoORVu9UaQgbepzVZ7vQfpLSaxQBqJ6iwb+HIm+8hLDltaAAA=",
+                        "color": "#80826b",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770340338111_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770340338785_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBgCdASogABsAPm0mkUWkIaGb+qwAQAbEsYBYj3kA4HjI/hZx+hBEUoGV6yHATzfY5Goug8/I8UgA/qrdmraTMw/KBRTbqlZKwFbzg8wHlFRWl03+Jg5MdZ3aWE8eqPKymksyI/fKkit3LZ2VazH6/G+cUONKTM7oWEK1uHkr675uFmOf+lC6hgoHONQVdtvoORVu9UaQgbepzVZ7vQfpLSaxQBqJ6iwb+HIm+8hLDltaAAA=",
+                        "color": "#80826b",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770340338111_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770340338785_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190447,
+            "type": "reportage",
+            "title": "Зашел вернуть долг: у 90-летней пенсионерки украл золотую цепочку рецидивист",
+            "lead": "Ущерб женщина оценила в 42 тысячи рублей. Мужчину осудили, его приговорили к четырем годам колонии строгого режима.",
+            "publishedAt": "2026-02-06T09:29:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABQBQCdASogABsAPm0uk0akIiGhMBgIAIANiUATplCPk+ZQSP9I6+IECQDWgR6LWOfH5AAA/uw/yQ/R609CQ51q5HlDfTiVh7f23V0f4tbGQY2J8TTCMxmZ745hbue0zaCSeAgXzbppRNb4i8ypuUPUyEhLBk/g6l7DM/O4syatwUXa3MCA2KbAd69KIHi33wk94gbjyeJNCzhWAl/09Vi5OqiJ6UV7S3r0aNzLl9KAwHRuRFvUL3RgAAA=",
+                        "color": "#826033",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770332109887_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770332110341_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACQBgCdASogABsAPm0ykkckIyGhKAqogA2JZgCdMoSCv8ZOUDosoQREEdaTfLdpeM3ACzSgT1rz+ch0xguwAP40Sa91YbLC8KA2nHTSKd5CRwABpOLAcF9umPwtTTU0kwpgE1KDVK02YPiP4L6vivVwHRZ2AII4/exeVIis+YiP6/M8onmf0iGBa2CfjqFZuZgaktY1eiAVwB4KnJvXtqJDGim80D0j+YTI7+v66CV6IBSCSezL+etG7UG+KhPOb7XEz4u4GloKSfonDxrmdwV/sUh9ymp+xS5l6KkRvWi755O/kM5/WXJy0/HN+cjmu+AAAA==",
+                        "color": "#3b837b",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770332032171_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770332032625_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190427,
+            "type": "reportage",
+            "title": "Ножом ударил сына 60-летний хабаровчанин во время пьяной ссоры",
+            "lead": "Мужчину задержали, теперь ему грозит до 10 лет тюрьмы. Пострадавшего доставили в больницу, сейчас его жизнь вне опасности, он находится под наблюдением врачей.",
+            "publishedAt": "2026-02-05T19:27:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACQBQCdASogABsAPm0skkWkIqGYBABABsSyAE6ZiXoUPVAgf1KG5w8fF8KlzSUY2Qjuh1L2kAD+/09Uec1PvQ6U0HHQNcvJ4VIj+1TCS9jincSjrcfvyoh29OkKsFYZjtdsK9XkIpzLp3JkHUBC6Zsvd+e1h5mKbAKpU33OiWrY7csSWBRl0UJ9OEEKoH+JNRc++zdSA0D8nwNCNr/y1yiaKFp3TXZmxd9Xy/VF5Dv/ahFCYJZLwZVzOTavvhAPDQ001RkJlpZODd4AAAA=",
+                        "color": "#576855",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770261463221_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770261463899_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACQBQCdASogABsAPm0skkWkIqGYBABABsSyAE6ZiXoUPVAgf1KG5w8fF8KlzSUY2Qjuh1L2kAD+/09Uec1PvQ6U0HHQNcvJ4VIj+1TCS9jincSjrcfvyoh29OkKsFYZjtdsK9XkIpzLp3JkHUBC6Zsvd+e1h5mKbAKpU33OiWrY7csSWBRl0UJ9OEEKoH+JNRc++zdSA0D8nwNCNr/y1yiaKFp3TXZmxd9Xy/VF5Dv/ahFCYJZLwZVzOTavvhAPDQ001RkJlpZODd4AAAA=",
+                        "color": "#576855",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770261463221_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770261463899_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190442,
+            "type": "reportage",
+            "title": "Дом в частном секторе вспыхнул на улице Короленко (ФОТО)",
+            "lead": "Постройку уже тушат огнеборцы, пострадавших по предварительным данным нет.",
+            "publishedAt": "2026-02-05T17:54:15+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBQCdASogABsAPmUqkUWkIqGb/VQAQAZEsoBYj5DBZ/qDlQOV14ViBbAhnSp21G0zk8KIxwAA/vx+PO6qzRWa/lxc2OD1OB2b/HzRGNuhw/EGxD3fvD7kZt+xAFYZykM2qs/a0zVf/mGFrXwj6tZthU9SK2sLN9TwVDZ30dC2FYFmtyGoC76Tm3VuNYEwgX7xTockWCPHAtho3x4blDrt9p3IBJPRyfg4egsY8TmTVktUAAA=",
+                        "color": "#9da5b2",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770277984017_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770277984671_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBQCdASogABsAPmUqkUWkIqGb/VQAQAZEsoBYj5DBZ/qDlQOV14ViBbAhnSp21G0zk8KIxwAA/vx+PO6qzRWa/lxc2OD1OB2b/HzRGNuhw/EGxD3fvD7kZt+xAFYZykM2qs/a0zVf/mGFrXwj6tZthU9SK2sLN9TwVDZ30dC2FYFmtyGoC76Tm3VuNYEwgX7xTockWCPHAtho3x4blDrt9p3IBJPRyfg4egsY8TmTVktUAAA=",
+                        "color": "#9da5b2",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770277984017_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770277984671_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190424,
+            "type": "reportage",
+            "title": "Вахтовик устроил пьяный дебош в поезде «Советская Гавань – Владивосток»",
+            "lead": "Сотрудники транспортной полиции задержали 42-летнего жителя Приморья, который в состоянии алкогольного опьянения устроил дебош в поезде «Советская Гавань – Владивосток». Мужчина агрессивно вел себя, матерился и мешал другим пассажирам.",
+            "publishedAt": "2026-02-05T16:46:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAQBgCdASogABsAPmEmj0WkIiGb/VQAQAYEtABWHKCdX/MwLEIUOmJgdmUX+BFykv6aQU6hQ7OF+AAA/v9QIhPLoPDJ3nKOsnZ1e1PnPv91Fdd/0M0DvYiPH+SWiUh+Z+QIA4+H+5tQm1q8VK/3ET3KhEXp6/gG0evnib6PGPzjNkgZPu67TAhh4BnIR5jb22dmD453pOCoU/flByPHejRTxwenOkUJEorNjy0UPk/lGmQujBeio630kRH/NNnlLuu125+l8Kyk+qOpIMgMe+gA",
+                        "color": "#c9ebf8",
+                        "dark": false,
+                        "width": 667,
+                        "height": 375,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770259608426_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770259608813_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAQBgCdASogABsAPmEmj0WkIiGb/VQAQAYEtABWHKCdX/MwLEIUOmJgdmUX+BFykv6aQU6hQ7OF+AAA/v9QIhPLoPDJ3nKOsnZ1e1PnPv91Fdd/0M0DvYiPH+SWiUh+Z+QIA4+H+5tQm1q8VK/3ET3KhEXp6/gG0evnib6PGPzjNkgZPu67TAhh4BnIR5jb22dmD453pOCoU/flByPHejRTxwenOkUJEorNjy0UPk/lGmQujBeio630kRH/NNnlLuu125+l8Kyk+qOpIMgMe+gA",
+                        "color": "#c9ebf8",
+                        "dark": false,
+                        "width": 667,
+                        "height": 375,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770259608426_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770259608813_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190429,
+            "type": "reportage",
+            "title": "Иностранца обвинили в убийстве 13-летней давности",
+            "lead": "Мужчина был объявлен в международный розыск. В настоящее время уголовное дело в отношении него направлено в суд для рассмотрения по существу.",
+            "publishedAt": "2026-02-05T15:55:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADQBQCdASogABsAPm0uk0akIqGhMBgMAIANiWMAnTNnLHS3/tgM4mnGr8UKHe9infhNSVru6/DAAP7xvw4xWG3HdYoYjVl5zuBDk8c2bgGzGkkpsoU9JtO3WDx2lYz3Uw7fc2CnmG3UiA0WO4l0Oblnzij0R8H/EYwO4uhg98/FREuzPJooB5MjGrfVNH1pgPjrVG/rWdPHa5qk762Ene1jFJYBZsIPCEVMrtXIAAA=",
+                        "color": "#161b20",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770263592899_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770263593531_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABsAPmEkjkWkIiEb9ABABgSzgGOYGLocorXozsEJ+O10qvkpMiBAAP7+t6l9odZz8B8WIrr7BvaVVEwqzxkpBmYsydxIrbos3/QTRQkxRmKa9Yy7zwZPvtXvjZpwAAA=",
+                        "color": "#e0e6f0",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770263524886_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770263525514_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190430,
+            "type": "reportage",
+            "title": "В аварию на угнанной у соседки Toyota попал мужчина в Хабаровске (ФОТО)",
+            "lead": "На улице Тихоокеанской в Хабаровске столкнулись Toyota Prius PHV и Toyota Corolla, после чего выяснилось, что водитель Corolla управлял автомобилем без разрешения владелицы. Женщина подала заявление об угоне на своего соседа, который скрылся с места происшествия.",
+            "publishedAt": "2026-02-05T13:58:16+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBQCdASogABsAPm0ylUekIqIhKAgAgA2JQBOnKCrYAMUDO0/8F3Hy2DhqwzvYy3edRHmgAP7TnnRyDdIy2Ylp2IbTFVwS2zCPs/mu4gdNK45Fqbk9iAJs7oh6vsvzGm9jT9od4a7i9YVAIMhsFBaj3S8ICB0va500YbFmrDuPlantRPyluu6y4J9Qsc1ppm2xG5eBxdskal9e2BOeUzhuGjfNGcSRhamHRmhY4JG8MAQUvO4XTVOR75jIQ4zxlAAAAA==",
+                        "color": "#626160",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770263661825_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770263662646_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBQCdASogABsAPm0ylUekIqIhKAgAgA2JQBOnKCrYAMUDO0/8F3Hy2DhqwzvYy3edRHmgAP7TnnRyDdIy2Ylp2IbTFVwS2zCPs/mu4gdNK45Fqbk9iAJs7oh6vsvzGm9jT9od4a7i9YVAIMhsFBaj3S8ICB0va500YbFmrDuPlantRPyluu6y4J9Qsc1ppm2xG5eBxdskal9e2BOeUzhuGjfNGcSRhamHRmhY4JG8MAQUvO4XTVOR75jIQ4zxlAAAAA==",
+                        "color": "#626160",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770263661825_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770263662646_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190425,
+            "type": "reportage",
+            "title": "Полиция проверяет информацию о поджоге салона автомобиля подростками",
+            "lead": "В Хабаровске полиция проводит проверку по публикации в соцсетях о возможном поджоге салона автомобиля двумя несовершеннолетними в Первом микрорайоне. Устанавливаются владелец машины и причастные лица.",
+            "publishedAt": "2026-02-05T13:14:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBQCdASogABsAPmUoj0WkIqEb/VQAQAZEoAuwBXaNzM7PlGVQvT+DFMYsLN7US6QgAP76zj+ldt5pDO4pPToKDuR0KGzvzKvV5lS2xCouLPD1Qy50Wox0dlio180pmVZQTMdJ3+1tAmr79wTw9ah5e4AKZBkvADDRCBIJv4ap/QTS+BOjyePghZMPO7Glq7H2AAAA",
+                        "color": "#d6e0ee",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770260075038_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770260075531_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBQCdASogABsAPmUoj0WkIqEb/VQAQAZEoAuwBXaNzM7PlGVQvT+DFMYsLN7US6QgAP76zj+ldt5pDO4pPToKDuR0KGzvzKvV5lS2xCouLPD1Qy50Wox0dlio180pmVZQTMdJ3+1tAmr79wTw9ah5e4AKZBkvADDRCBIJv4ap/QTS+BOjyePghZMPO7Glq7H2AAAA",
+                        "color": "#d6e0ee",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770260075038_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770260075531_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190398,
+            "type": "reportage",
+            "title": "Планировал носить: куртку украл хабаровчанин у посетителя кафе",
+            "lead": "Теперь мужчине грозит до пяти лет тюрьмы. Ранее он уже привлекался к уголовной ответственности за кражу, угрозу убийством и уклонение от административного надзора.",
+            "publishedAt": "2026-02-05T12:51:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAAAQBgCdASogABsAPm0wkkakIyGhKA1QgA2JQBYj5l4WhJz37mTyXqTtmojklD4AyUq2+Ggx1zcS3AAA/ugjPzqnP6XkGZYch2MQaNk+1wT7K0WV/je5dDJ9XlLJXfCjhiB8eWP4vfOsJHZMg/IiFTcxycOr1axmKbaXAnvHDWUvtL4BRPCtlkKr1pBGfj9DoiY6O+okq1ehKQSBJNglMjwEszbGnW2HsRL5HR8iBaKxr1nhQVR+oa11CiclGNFqc42ltNtwAAA=",
+                        "color": "#85bda1",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770246880167_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770246880567_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAAAQBgCdASogABsAPm0wkkakIyGhKA1QgA2JQBYj5l4WhJz37mTyXqTtmojklD4AyUq2+Ggx1zcS3AAA/ugjPzqnP6XkGZYch2MQaNk+1wT7K0WV/je5dDJ9XlLJXfCjhiB8eWP4vfOsJHZMg/IiFTcxycOr1axmKbaXAnvHDWUvtL4BRPCtlkKr1pBGfj9DoiY6O+okq1ehKQSBJNglMjwEszbGnW2HsRL5HR8iBaKxr1nhQVR+oa11CiclGNFqc42ltNtwAAA=",
+                        "color": "#85bda1",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770246880167_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770246880567_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190413,
+            "type": "reportage",
+            "title": "Сертификат мигранта на знание языка аннулировали из-за сфальсифицированного теста",
+            "lead": "Суд в Хабаровске по иску прокурора признал недействительным сертификат о знании русского языка, выданный мигранту из Узбекистана. Установлено, что сотрудники центра предоставили иностранцу правильные ответы во время экзамена.",
+            "publishedAt": "2026-02-05T12:00:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACQBQCdASogABsAPmkqkEWkIqGb+qwAQAaEoAtOhFX9yaDA1pPw0KYnE4fg468v5uKVx9a8AAD+/qAeXM8QIz6CZCewxdvOhhOBOuiUOCYyFTc4HylmMcvbukK6UpbXfTT1MGxJ63facYiuCk696joeH/ElCMtorVn7K24H16IgZxGZBQrPe1HwWJBM6wcQ/w9WZ3PaNGHjT1jbcgAAAA==",
+                        "color": "#0f0f14",
+                        "dark": true,
+                        "width": 1024,
+                        "height": 575,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770252797088_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770252797490_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACQBQCdASogABsAPmkqkEWkIqGb+qwAQAaEoAtOhFX9yaDA1pPw0KYnE4fg468v5uKVx9a8AAD+/qAeXM8QIz6CZCewxdvOhhOBOuiUOCYyFTc4HylmMcvbukK6UpbXfTT1MGxJ63facYiuCk696joeH/ElCMtorVn7K24H16IgZxGZBQrPe1HwWJBM6wcQ/w9WZ3PaNGHjT1jbcgAAAA==",
+                        "color": "#0f0f14",
+                        "dark": true,
+                        "width": 1024,
+                        "height": 575,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770252797088_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770252797490_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190407,
+            "type": "reportage",
+            "title": "Honda Fit сбила девочку-подростка на Карла Маркса",
+            "lead": "В Хабаровске на улице Карла Маркса автомобиль Honda Fit совершил наезд на девочку 2009 года рождения на нерегулируемом пешеходном переходе. Водитель, 1997 года рождения, был трезв и имел действующий полис ОСАГО.",
+            "publishedAt": "2026-02-05T11:04:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBgCdASogABsAPm0wk0akIyGhMBgIAIANiWMAsR7dapgacPEgxGi8dvhZIiYWgNWxCa0kgpUlTlc4AAD+5ex1iKQNc3DSpg8XZYb49mewLRS6bxPgQkjQo3OW+WZFhQ7QdQju37zpnBjzZ0VaryrBh83PNWQABzHqohLfbLZ4DjM+jPOqV8oDvnvTFbK1zXO9vAWwHD4JlG2K3zscxMdAQwo0C0mYBBZKkfRN4JYts2qa1Dm6z8AA",
+                        "color": "#8388a0",
+                        "dark": false,
+                        "width": 781,
+                        "height": 439,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770250175642_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770250176040_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBgCdASogABsAPm0wk0akIyGhMBgIAIANiWMAsR7dapgacPEgxGi8dvhZIiYWgNWxCa0kgpUlTlc4AAD+5ex1iKQNc3DSpg8XZYb49mewLRS6bxPgQkjQo3OW+WZFhQ7QdQju37zpnBjzZ0VaryrBh83PNWQABzHqohLfbLZ4DjM+jPOqV8oDvnvTFbK1zXO9vAWwHD4JlG2K3zscxMdAQwo0C0mYBBZKkfRN4JYts2qa1Dm6z8AA",
+                        "color": "#8388a0",
+                        "dark": false,
+                        "width": 781,
+                        "height": 439,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770250175642_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770250176040_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190399,
+            "type": "reportage",
+            "title": "Toyota и Nissan столкнулись на пересечении Тургенева и Уссурийского бульвара (ФОТО)",
+            "lead": "В результате аварии на перекрестке у Toyota Prius поврежден задний бампер, а у Nissan Tiida разбита передняя часть. Информации о пострадавших в ДТП нет.",
+            "publishedAt": "2026-02-05T09:41:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwBQCdASogABsAPm0ukEWkIqGYDAYAQAbEs4BXlp3CVMWkCazDOAjvF/kJUgVOy2xzbnmhHXs18AD+aqrj0QTYEgaIw5FfDbW/oJ/9y6p0ipUlloMWG7tm/xJYyTCkWSxW2W5muj6fajpRzL7SrgimFzRrTdmWeYLDdUv8hfJ1VzUWzeV8xY8gah2GgPNDYe3Jc5JqsiHN1WJQe11QEVpQlrLxfz8wAAA=",
+                        "color": "#646e76",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770247027515_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770247027919_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwBQCdASogABsAPm0ukEWkIqGYDAYAQAbEs4BXlp3CVMWkCazDOAjvF/kJUgVOy2xzbnmhHXs18AD+aqrj0QTYEgaIw5FfDbW/oJ/9y6p0ipUlloMWG7tm/xJYyTCkWSxW2W5muj6fajpRzL7SrgimFzRrTdmWeYLDdUv8hfJ1VzUWzeV8xY8gah2GgPNDYe3Jc5JqsiHN1WJQe11QEVpQlrLxfz8wAAA=",
+                        "color": "#646e76",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770247027515_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770247027919_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190386,
+            "type": "reportage",
+            "title": "Завести ножницами чужую машину пытался 15-летний подросток",
+            "lead": "Ему удалось взломать замок водительской двери. Отмечается, что ранее молодой человек уже становился фигурантом уголовных дел о грабеже и краже. Он был  водворен в изолятор временного содержания.",
+            "publishedAt": "2026-02-04T19:26:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACwBQCdASogABsAPm0ukUYkIqGhMBgMAIANiWkAxN2zwn6Didz+H/kvtRJ+I+4wsFeYNDkBigAA/cMSIfNnxn5Qha/5XIrE+YHVttXY5WgJIdIPh7d5PifObtDX9TttPV0wkr6D96QFceeJMofEhMHWf1QwVwzSykT1KAiI4UXElt1nClNVSyBhoksp+5k/yqtJCHBVqk51Lw9XTYbxs/VuWsXTAAAA",
+                        "color": "#020202",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770183891987_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770183892558_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACwBQCdASogABsAPm0ukUYkIqGhMBgMAIANiWkAxN2zwn6Didz+H/kvtRJ+I+4wsFeYNDkBigAA/cMSIfNnxn5Qha/5XIrE+YHVttXY5WgJIdIPh7d5PifObtDX9TttPV0wkr6D96QFceeJMofEhMHWf1QwVwzSykT1KAiI4UXElt1nClNVSyBhoksp+5k/yqtJCHBVqk51Lw9XTYbxs/VuWsXTAAAA",
+                        "color": "#020202",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770183891987_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770183892558_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190375,
+            "type": "reportage",
+            "title": "Автомобиль столкнулся со скорой в центре Хабаровска",
+            "lead": "ДТП произошло на улице Ленина. Однако, как сообщили в ГАИ, в дежурную часть информации по факту происшествия не поступало.",
+            "publishedAt": "2026-02-04T13:15:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBgCdASogABsAPm0qkkYkIiGhMBgMAIANiUATpygqw8ZwMem3CaWE2vW79x+rqnH3+wR8yUlfCwAA/gGShwa9UQKwOaYRu/D/ivJOcUXQ3I+bVm22GtNfCafv5klTHo1/0uqNGLzAHH+9HMQ//8xXKUdRY4prjz+DkW8zJiFbuvugxk3COSm6a7cmR2/nCfxhsJKbyedg9Jh0MRBounqFVagOI8BbrkWwVgAA",
+                        "color": "#617581",
+                        "dark": true,
+                        "width": 506,
+                        "height": 284,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770173369366_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770173370011_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBgCdASogABsAPm0qkkYkIiGhMBgMAIANiUATpygqw8ZwMem3CaWE2vW79x+rqnH3+wR8yUlfCwAA/gGShwa9UQKwOaYRu/D/ivJOcUXQ3I+bVm22GtNfCafv5klTHo1/0uqNGLzAHH+9HMQ//8xXKUdRY4prjz+DkW8zJiFbuvugxk3COSm6a7cmR2/nCfxhsJKbyedg9Jh0MRBounqFVagOI8BbrkWwVgAA",
+                        "color": "#617581",
+                        "dark": true,
+                        "width": 506,
+                        "height": 284,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770173369366_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770173370011_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190356,
+            "type": "reportage",
+            "title": "Клавиатуру, мышь, колонку: технику украл у соседа житель Хабаровского района",
+            "lead": "Мужчине удалось вынести системный блок, блок питания, клавиатуру, компьютерную мышь и портативную колонку. Общий ущерб составил более 130 тысяч рублей. Виновного осудили.",
+            "publishedAt": "2026-02-04T12:28:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwBQCdASogABsAPm0wkUakIyGhKA1QgA2JZwCdB37ATdnF+srCWL9A8DB3HpJs3dehbv56TVb2sAD+BigWHbDVIStAQNkEbv3b5d4lGIiI4W4EL2NU2Daq/vzy/yH29n5Z92FHU2k9limKlilXXrxIg1VWZG5oxYFnDA7J3ZkvgxbV2Y8KeoxQaWbFTmXidzk0lxZLnktDgYM0rZVr4xy0ZqV8+vnTj27nH8vAFpQAAA==",
+                        "color": "#577588",
+                        "dark": true,
+                        "width": 648,
+                        "height": 364,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770164486549_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770164487918_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwBQCdASogABsAPm0wkUakIyGhKA1QgA2JZwCdB37ATdnF+srCWL9A8DB3HpJs3dehbv56TVb2sAD+BigWHbDVIStAQNkEbv3b5d4lGIiI4W4EL2NU2Daq/vzy/yH29n5Z92FHU2k9limKlilXXrxIg1VWZG5oxYFnDA7J3ZkvgxbV2Y8KeoxQaWbFTmXidzk0lxZLnktDgYM0rZVr4xy0ZqV8+vnTj27nH8vAFpQAAA==",
+                        "color": "#577588",
+                        "dark": true,
+                        "width": 648,
+                        "height": 364,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770164486549_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770164487918_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190354,
+            "type": "reportage",
+            "title": "Главу ОПГ в Хабаровске приговорили к 22 годам колонии за разбои и убийство",
+            "lead": "Группа, действовавшая с 2023 по 2024 год, нападала на состоятельных предпринимателей. В ходе одного из нападений был убит мужчина, а его супруга избита. Общий ущерб от преступлений превысил 10 миллионов рублей.",
+            "publishedAt": "2026-02-04T11:52:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm0wkkYkIyGhMBgIAIANiWcAwoAOkghp0mN6FyqVGBXb2U+Lrg7Us7Pmu03h6oAA/u9qpqSBB68vzwxfbf8LaH9LbZfJHL+Kd+BmYBDvUBnJpK5oObxkb/J0ZbxlvgGe9FE4gztCXl3OVBW48pdDw/ORmoc7RD3/EwbbC021OPaSyiKA0CS1I6crccl4VtVGg5zNavaRRJPRriouULgAAA==",
+                        "color": "#f3f4f6",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770163833236_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770163833792_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm0wkkYkIyGhMBgIAIANiWcAwoAOkghp0mN6FyqVGBXb2U+Lrg7Us7Pmu03h6oAA/u9qpqSBB68vzwxfbf8LaH9LbZfJHL+Kd+BmYBDvUBnJpK5oObxkb/J0ZbxlvgGe9FE4gztCXl3OVBW48pdDw/ORmoc7RD3/EwbbC021OPaSyiKA0CS1I6crccl4VtVGg5zNavaRRJPRriouULgAAA==",
+                        "color": "#f3f4f6",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770163833236_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770163833792_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190358,
+            "type": "reportage",
+            "title": "Гигантская пробка образовалась на Павла Морозова из-за ДТП с грузовиком",
+            "lead": "Одна полоса движения полностью перегорожена, также затруднён поворот на улицу Оборонную. Информации о пострадавших и причинах аварии пока нет.",
+            "publishedAt": "2026-02-04T10:29:35+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBQCdASogABsAPm0uk0YkIqGhMBgIAIANiUATpygqW7zgEYFQS3EfrGD1g3gPN255o/5hu6jbgAD+UYAVi8VdzDDOi4hpQtQlt5KOts2sQ1Qk3C1tZ63/QrLNlYn0nE8wba+FQSw3IvVUWJjQQr/Baf8bMktBRoNKYubvQfVJhzh3vUgfNCpFezNLbFZG7dlT+stqvGm1DoZORCynHPNJyMKFSRIoyfOiNqQqPx/HIBB00I/T34mpL5TbPxW8AAA=",
+                        "color": "#699bda",
+                        "dark": false,
+                        "width": 1024,
+                        "height": 575,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770164872405_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770164873382_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBQCdASogABsAPm0uk0YkIqGhMBgIAIANiUATpygqW7zgEYFQS3EfrGD1g3gPN255o/5hu6jbgAD+UYAVi8VdzDDOi4hpQtQlt5KOts2sQ1Qk3C1tZ63/QrLNlYn0nE8wba+FQSw3IvVUWJjQQr/Baf8bMktBRoNKYubvQfVJhzh3vUgfNCpFezNLbFZG7dlT+stqvGm1DoZORCynHPNJyMKFSRIoyfOiNqQqPx/HIBB00I/T34mpL5TbPxW8AAA=",
+                        "color": "#699bda",
+                        "dark": false,
+                        "width": 1024,
+                        "height": 575,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770164872405_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770164873382_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190348,
+            "type": "reportage",
+            "title": "Выезжают на встречную: автобусы-нарушители попали в поле зрения ГИБДД",
+            "lead": "Речь идет об утренних нарушениях на улице Горького. Информация была получена в ходе мониторинга интернета, после чего ГИБДД усилила контроль на этом участке.",
+            "publishedAt": "2026-02-04T09:21:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABwBwCdASogABsAPm0sk0akIiGhMBgIAIANiWYAnTKEdQe6cWI4b2QJXN84avFeQ02GoIzvQls7JeEBEjmxkBzqwnxQIAD+/ulpBRew4sXChYd7yaxl+/VCDADP80de4IZEzwjqXMq/v2JkludVqWYkFzD1zhOn7VH/Gs8SqmVkt9/iEVrD+9zyASDwfTn21ezUb9M9W31BKt+xZ28MKdDPvS3esVwI198hU+WbMACnnjwv2PNf+ygLuIhAbEOPJyAULr/0YMYO7WOFbZyeSgxAAAA=",
+                        "color": "#72513d",
+                        "dark": true,
+                        "width": 914,
+                        "height": 514,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770158632329_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770158632714_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABwBwCdASogABsAPm0sk0akIiGhMBgIAIANiWYAnTKEdQe6cWI4b2QJXN84avFeQ02GoIzvQls7JeEBEjmxkBzqwnxQIAD+/ulpBRew4sXChYd7yaxl+/VCDADP80de4IZEzwjqXMq/v2JkludVqWYkFzD1zhOn7VH/Gs8SqmVkt9/iEVrD+9zyASDwfTn21ezUb9M9W31BKt+xZ28MKdDPvS3esVwI198hU+WbMACnnjwv2PNf+ygLuIhAbEOPJyAULr/0YMYO7WOFbZyeSgxAAAA=",
+                        "color": "#72513d",
+                        "dark": true,
+                        "width": 914,
+                        "height": 514,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770158632329_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770158632714_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190335,
+            "type": "reportage",
+            "title": "До семи лет тюрьмы грозит двум жителям Хабаровского края за рубку леса (ФОТО)",
+            "lead": "Мужчины, не имея разрешительных документов, спилили девять деревьев, среди которых: белая береза, осина и дуб. Ущерб составил более 160 тысяч рублей. Было возбуждено уголовное дело.",
+            "publishedAt": "2026-02-03T19:01:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBgCdASogABsAPm0sk0YkIiGhMBgMAIANiWUAw1UgeLlOAK6nSPiF5xHrbmR3wfCiRS12mwzZp+ugAP3v52oGv1WhN7JDn0RTm4a26YrhQrLGmu2+tyXG73GDsWf1VR4A58EvKDKgYIAj57JLwxZCqZqRpqk/Iw4iM1J1xwG8UxwUCL0IXuKZSLkSOOt65qw/7SFj5yWxnCZ9Yrh5aEqMXRN+t3PPc445OgdkOVUbtkXAJAA=",
+                        "color": "#878374",
+                        "dark": false,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770095790106_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770095790844_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBgCdASogABsAPm0sk0YkIiGhMBgMAIANiWUAw1UgeLlOAK6nSPiF5xHrbmR3wfCiRS12mwzZp+ugAP3v52oGv1WhN7JDn0RTm4a26YrhQrLGmu2+tyXG73GDsWf1VR4A58EvKDKgYIAj57JLwxZCqZqRpqk/Iw4iM1J1xwG8UxwUCL0IXuKZSLkSOOt65qw/7SFj5yWxnCZ9Yrh5aEqMXRN+t3PPc445OgdkOVUbtkXAJAA=",
+                        "color": "#878374",
+                        "dark": false,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770095790106_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770095790844_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190331,
+            "type": "reportage",
+            "title": "Работник автосервиса в Хабаровске украл и продал резину и диски",
+            "lead": "Мужчина вывез имущество с территории компании и разместил объявления на популярном сайте, выручив 45 тысяч рублей. Покупателей установили, а похищенное вернули владельцу.",
+            "publishedAt": "2026-02-03T16:05:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBQCdASogABsAPm0wk0akIyGhMBgIAIANiWUApIAQ7B5ZEIaVSYsCyhpcGUfkVFg5rGJoAAD+ycl+aEoammbdJtAeo/KrJki47wdZ38a+wCreZnCna01hClCFyKh0fmQNQtUL7S2FkCIWphHnKvWInDh8TCqloyslDMKuU+4Xj6j5wzDrQl/GTTlr9zo67aNpMQrxTo/stHCnmVXVFIyw9v6xo7rdKiF+t6rnH2iAOUKIAAA=",
+                        "color": "#878a7c",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770100106955_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770100107677_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBQCdASogABsAPm0wk0akIyGhMBgIAIANiWUApIAQ7B5ZEIaVSYsCyhpcGUfkVFg5rGJoAAD+ycl+aEoammbdJtAeo/KrJki47wdZ38a+wCreZnCna01hClCFyKh0fmQNQtUL7S2FkCIWphHnKvWInDh8TCqloyslDMKuU+4Xj6j5wzDrQl/GTTlr9zo67aNpMQrxTo/stHCnmVXVFIyw9v6xo7rdKiF+t6rnH2iAOUKIAAA=",
+                        "color": "#878a7c",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770100106955_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770100107677_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190320,
+            "type": "reportage",
+            "title": "Мужчина пытался украсть кабель с судостроительного завода в Хабаровске",
+            "lead": "Инцидент произошел около 19:00, служба безопасности завода заметила злоумышленника на камерах и воспользовалась тревожной кнопкой. При задержании у мужчины обнаружили медный кабель и инструменты.",
+            "publishedAt": "2026-02-03T13:56:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASogABsAPl0kjkWjoiEb9AA4BcSzgGRqGShwne+sA2rETzpkzxvFXWUVFoAA/v63ND7AoKIb3xCUMaan/TAqjvvHP08GAV7afHmQlvVPYWlz8SMZ9uTHbUiqsxX400NycjK39+W/v2GEyvwa4Zw+5rU7ApySchGQAAA=",
+                        "color": "#020202",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770083379196_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770083379605_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASogABsAPl0kjkWjoiEb9AA4BcSzgGRqGShwne+sA2rETzpkzxvFXWUVFoAA/v63ND7AoKIb3xCUMaan/TAqjvvHP08GAV7afHmQlvVPYWlz8SMZ9uTHbUiqsxX400NycjK39+W/v2GEyvwa4Zw+5rU7ApySchGQAAA=",
+                        "color": "#020202",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770083379196_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770083379605_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190312,
+            "type": "reportage",
+            "title": "Водитель грузовика, сбивший трех детей в Хабаровском крае, пойдет под суд (ФОТО)",
+            "lead": "Грузовик Mercedes-Benz, груженый лесом, выехал на обочину и сбил группу детей в селе Георгиевка. 9-летний мальчик погиб на месте, две девочки получили травмы.",
+            "publishedAt": "2026-02-03T13:05:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBQCdASogABsAPm0ulEakIqIhKAqogA2JYwCsITYBh4nalqbwTf4dLuileSxe17z2pVN317MgAP33eHSUmbRLxAUz8Yi1chT8a/u4YFUTMx/+j/1YeqSihv0lw7fCXLU11yv30xLT7dQinHjwKfoMuy9DTFDiDCCUWkyOlf2N7hlw0jBwsA5gEtuv7bN/GWL2KwXLrR7BUn+KbhCv6WbjhGzgCCPlQAA=",
+                        "color": "#686459",
+                        "dark": true,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770079525628_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770079526028_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBQCdASogABsAPm0ulEakIqIhKAqogA2JYwCsITYBh4nalqbwTf4dLuileSxe17z2pVN317MgAP33eHSUmbRLxAUz8Yi1chT8a/u4YFUTMx/+j/1YeqSihv0lw7fCXLU11yv30xLT7dQinHjwKfoMuy9DTFDiDCCUWkyOlf2N7hlw0jBwsA5gEtuv7bN/GWL2KwXLrR7BUn+KbhCv6WbjhGzgCCPlQAA=",
+                        "color": "#686459",
+                        "dark": true,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770079525628_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770079526028_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190303,
+            "type": "reportage",
+            "title": "Информацию о драке мужчины и подростка проверяет полиция",
+            "lead": "В настоящее время сотрудники полиции проводят проверку. Устанавливаются обстоятельства произошедшего.",
+            "publishedAt": "2026-02-03T10:40:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBQCdASogABsAPm00l0akIyKhMAgAgA2JZwC+SGMlhbSSbPvfZYc3KyEKRbJku4UMHAAA/vvhb7clva/yGzydn7OgzF8JfdTcRP8I/MlpPNE8s/FLI6JYl9FADoCYxQcFjeV6tp7CdgmpL6BtLgSj2HJWETSIyX9UdvNA1DxYShxvkvCg5Ksrzdl6ljTOgFtYnSiIEcQwhAtPhIAAAA==",
+                        "color": "#dee1e2",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770072582074_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770072582773_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBQCdASogABsAPm00l0akIyKhMAgAgA2JZwC+SGMlhbSSbPvfZYc3KyEKRbJku4UMHAAA/vvhb7clva/yGzydn7OgzF8JfdTcRP8I/MlpPNE8s/FLI6JYl9FADoCYxQcFjeV6tp7CdgmpL6BtLgSj2HJWETSIyX9UdvNA1DxYShxvkvCg5Ksrzdl6ljTOgFtYnSiIEcQwhAtPhIAAAA==",
+                        "color": "#dee1e2",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770072582074_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770072582773_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190301,
+            "type": "reportage",
+            "title": "Судно на воздушной подушке и легковушка столкнулись на Амуре",
+            "lead": "Оба водителя и один из пассажиров получили травмы и обратились за медицинской помощью. Сейчас прокуратура проводит проверку.",
+            "publishedAt": "2026-02-03T09:40:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABsAPmUmj0WkIiEb/VQAQAZEs4BibCuwWgeP+sN87b0PJQv4RO8oAAD+uRxkVxR1RPYpTyJ8jnez6juMJpJRYzzv6I+sF0jdoy8I+LUZOnTeXIUaFWmR6SP+FeRGXAAAAA==",
+                        "color": "#68778b",
+                        "dark": true,
+                        "width": 385,
+                        "height": 217,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770071474839_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770071476194_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABsAPmUmj0WkIiEb/VQAQAZEs4BibCuwWgeP+sN87b0PJQv4RO8oAAD+uRxkVxR1RPYpTyJ8jnez6juMJpJRYzzv6I+sF0jdoy8I+LUZOnTeXIUaFWmR6SP+FeRGXAAAAA==",
+                        "color": "#68778b",
+                        "dark": true,
+                        "width": 385,
+                        "height": 217,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770071474839_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770071476194_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190272,
+            "type": "reportage",
+            "title": "Хабаровский предприниматель обманул клиентов почти на четыре миллиона рублей",
+            "lead": "Мужчина заключал договора на поставку строительных блоков из арболита, однако контрактные обязательства не исполнял. Были возбуждены уголовные дела.",
+            "publishedAt": "2026-02-02T18:28:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBQCdASogABsAPm0ukUWkIqGYDAYAQAbEoAnTNaQW/lBacYtTFuNl6/A0gktyCa8+x0Y7Aoo10AD+76ZclZZCpfTyPZifb3s1mJsufCNZQBEwjHm58aDAtUIBMzVQcCpMsORVgQwSMgpCMJcFoLMh79toKaDlBv2ePx0loffQFa+3hs74QHaw7NRc7RdjtHlCQoORvQ2XghyrLN5SPRmmS1dkHZhyvQQAAA==",
+                        "color": "#cbc2c9",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769998066303_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769998066739_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBQCdASogABsAPm0ukUWkIqGYDAYAQAbEoAnTNaQW/lBacYtTFuNl6/A0gktyCa8+x0Y7Aoo10AD+76ZclZZCpfTyPZifb3s1mJsufCNZQBEwjHm58aDAtUIBMzVQcCpMsORVgQwSMgpCMJcFoLMh79toKaDlBv2ePx0loffQFa+3hs74QHaw7NRc7RdjtHlCQoORvQ2XghyrLN5SPRmmS1dkHZhyvQQAAA==",
+                        "color": "#cbc2c9",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769998066303_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769998066739_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190267,
+            "type": "reportage",
+            "title": "За мошенничество с арендой квартиры и хранение наркотиков осудили хабаровчанку",
+            "lead": "Женщина сдала в аренду несуществующую квартиру за 10 тысяч рублей. Позже выяснилось, что она также причастна к обороту наркотиков. Ее приговорили к 3 годам и 5 месяцам лишения свободы с отбыванием наказания в исправительной колонии общего режима, также ей предстоит выплатить штраф - 210 тысяч рублей.",
+            "publishedAt": "2026-02-02T16:41:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBQCdASogABsAPm0uk0WkIqGb+qwAQAbEsoBOmUGdAEFCSciMEVuju0a/mz2Do5KRe35VwYAA/q281vdGD5Gk9XoTCmCGuph1EXKfjNGff5v/mbq4W3juYkgcmDK7pVBFHQCF6Ie2cnJyLAy0pMb8n41fjnDfEzFOe1w/mOK8FUSfdmLdYnq/O1U/O3/n3FbMr1hRjSG4KHpNtkVi/Vv2z7UcFwMkoJHO8uAAAAA=",
+                        "color": "#606d7d",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769994822693_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769994823094_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBQCdASogABsAPm0uk0WkIqGb+qwAQAbEsoBOmUGdAEFCSciMEVuju0a/mz2Do5KRe35VwYAA/q281vdGD5Gk9XoTCmCGuph1EXKfjNGff5v/mbq4W3juYkgcmDK7pVBFHQCF6Ie2cnJyLAy0pMb8n41fjnDfEzFOe1w/mOK8FUSfdmLdYnq/O1U/O3/n3FbMr1hRjSG4KHpNtkVi/Vv2z7UcFwMkoJHO8uAAAAA=",
+                        "color": "#606d7d",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769994822693_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769994823094_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190292,
+            "type": "reportage",
+            "title": "Ребенок попал под колеса автобуса в пригороде Хабаровска",
+            "lead": "10-летняя девочка переходила дорогу в неположенном месте. Она с тяжелой травмой была госпитализирована в ККБ-2.",
+            "publishedAt": "2026-02-02T16:02:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADQBQCdASogABsAPm0uk0akIqGhMBgIAIANiWUAnSFcgX+TI1eQXrlccem5nRdvXjiL5SpSe03sAP7nkAXHcXX8LT3JHTdjasEH1Qcx3P59N5U0pTHwTzwoxRw+QnNG7wVEgeKeSEI2zywdOnBcoAejaj2L7QeqWcO2sLtbj8Evmfm9GleotF3leZxrN8V9x5PiDr1mn4m//wK7MnMyReatXC6gAA==",
+                        "color": "#90857f",
+                        "dark": false,
+                        "width": 974,
+                        "height": 548,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770009478511_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770009479967_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADQBQCdASogABsAPm0uk0akIqGhMBgIAIANiWUAnSFcgX+TI1eQXrlccem5nRdvXjiL5SpSe03sAP7nkAXHcXX8LT3JHTdjasEH1Qcx3P59N5U0pTHwTzwoxRw+QnNG7wVEgeKeSEI2zywdOnBcoAejaj2L7QeqWcO2sLtbj8Evmfm9GleotF3leZxrN8V9x5PiDr1mn4m//wK7MnMyReatXC6gAA==",
+                        "color": "#90857f",
+                        "dark": false,
+                        "width": 974,
+                        "height": 548,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770009478511_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770009479967_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190291,
+            "type": "reportage",
+            "title": "Плитка vs обогреватель: машина загорелась во дворе дома в Хабаровске (ФОТО)",
+            "lead": "Владелец утверждает, что использовал обогреватель под капотом, но соседи говорят, что к машине была подключена обычная электрическая плитка. Возгорание произошло во дворе шестиэтажного дома.",
+            "publishedAt": "2026-02-02T15:23:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACQBQCdASogABsAPmUqkUWkIqGYBgBABkSygFiPjj+oDHzbOgTDWDpS3rXOuOBex9P21Tn8AAD+xtXMOQfU6kKY+VloLfaJ2RBjSsFrawBmZ7FMIYIk0kLqeAKnlRXiUNSqJpoXgymBytsRfRPlZYTAfbPcb9bDSEG4/Q2cKCanQMDag6VUUjB4qXuYyk1Bh/NRzfsPM0TLZmdes70KiigOMn4Mnh0Q78ueToh+PfMAalLPNftegAAA",
+                        "color": "#68788b",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770009239177_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770009239649_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACQBQCdASogABsAPmUqkUWkIqGYBgBABkSygFiPjj+oDHzbOgTDWDpS3rXOuOBex9P21Tn8AAD+xtXMOQfU6kKY+VloLfaJ2RBjSsFrawBmZ7FMIYIk0kLqeAKnlRXiUNSqJpoXgymBytsRfRPlZYTAfbPcb9bDSEG4/Q2cKCanQMDag6VUUjB4qXuYyk1Bh/NRzfsPM0TLZmdes70KiigOMn4Mnh0Q78ueToh+PfMAalLPNftegAAA",
+                        "color": "#68788b",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770009239177_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770009239649_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190279,
+            "type": "reportage",
+            "title": "Две женщины-водителя пострадали в ДТП на Краснореченской",
+            "lead": "Инцидент произошёл около 16:48 возле дома №6/1 по улице Прогрессивной. Водитель Toyota Vista, женщина 1991 года рождения, не соблюла безопасную дистанцию и столкнулась с ехавшим впереди Hyundai Getz.",
+            "publishedAt": "2026-02-02T14:06:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBgCdASogABsAPm0yk0ckIyGhKAqogA2JQBOmWZDgQjrixsbd54n8kOmqKc+TTiaOwwDiMOKGnvbgAP4nvScfPd0/Xlyl/96PcnDgqg2OWTWAv89cof8dWnWPb836fZ+3H4b3Tn4MR77UR7QNZfda0IIscVg7I+PuqGVJWViHlScS2563Sz2x0zmJS9w1uLoDgWQ0g18f+yO3/GYpHm8gugtW+TVWTD0cj1ciFGzfAu6CC8yRLlQAYbtShus2XnEx7mzf5EYFkP3I6etfIA8TMHMp5R8gvmuiWBAA",
+                        "color": "#868f9c",
+                        "dark": false,
+                        "width": 771,
+                        "height": 433,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770001878444_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770001879281_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBgCdASogABsAPm0yk0ckIyGhKAqogA2JQBOmWZDgQjrixsbd54n8kOmqKc+TTiaOwwDiMOKGnvbgAP4nvScfPd0/Xlyl/96PcnDgqg2OWTWAv89cof8dWnWPb836fZ+3H4b3Tn4MR77UR7QNZfda0IIscVg7I+PuqGVJWViHlScS2563Sz2x0zmJS9w1uLoDgWQ0g18f+yO3/GYpHm8gugtW+TVWTD0cj1ciFGzfAu6CC8yRLlQAYbtShus2XnEx7mzf5EYFkP3I6etfIA8TMHMp5R8gvmuiWBAA",
+                        "color": "#868f9c",
+                        "dark": false,
+                        "width": 771,
+                        "height": 433,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770001878444_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770001879281_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190266,
+            "type": "reportage",
+            "title": "В суд направлено дело о взятках за фиктивные экзамены для иностранцев",
+            "lead": "Подозреваемые предлагали руководителю центра тестирования взятки от 2,5 до 3 тысяч рублей за каждого иностранца. В общей сложности было выдано 67 сертификатов о знании русского языка, истории и законодательства России.",
+            "publishedAt": "2026-02-02T13:09:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBgCdASogABsAPmkqkUWkIqGYBgBABoSyAE6ZQkCEeyMit34XFo7C0HvuCrss6ihoA/E9bJvMpGAA/la4zRkBXPbRntQsIp207yDExRiZ6+oBP5JSO+lOUW3wXhqyxTwibJOBwWZNEXtDrX4qkaboYfBRSIu1sQGcHJ3SGlz++LaQWL2PYCmjDwwRT8hKW7bzSkHaR7tzcwZR1ZYofYC4uMoBVvduef7sIAAA",
+                        "color": "#a8af98",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769994608084_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769994608881_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBgCdASogABsAPmkqkUWkIqGYBgBABoSyAE6ZQkCEeyMit34XFo7C0HvuCrss6ihoA/E9bJvMpGAA/la4zRkBXPbRntQsIp207yDExRiZ6+oBP5JSO+lOUW3wXhqyxTwibJOBwWZNEXtDrX4qkaboYfBRSIu1sQGcHJ3SGlz++LaQWL2PYCmjDwwRT8hKW7bzSkHaR7tzcwZR1ZYofYC4uMoBVvduef7sIAAA",
+                        "color": "#a8af98",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769994608084_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769994608881_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190262,
+            "type": "reportage",
+            "title": "В Хабаровске задержали вора, укравшего 21 банку растворимого кофе",
+            "lead": "Мужчина совершил серию краж, в том числе он украл из магазинов алкоголь и 21 банку кофе. Также во время рождественской службы в одном из храмов он похитил у прихожанки смартфон.",
+            "publishedAt": "2026-02-02T12:21:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBQCdASogABsAPmksj0WkIqEYBgBABoSxgE6ZQAROvxowtdlBTHCN1U/KdhIjkCh5Q4x7pRZgAP765SBnTTvBRndUpWwEQBQtAHsfV25WYDmjXAaMUa/gHjFk+ZI20avdtWpFBGP8oMwbai+//q3woR2iM2VmIQp8cNQU03xRZ+Rb7y0yHEGpR7ILWbAQ+s2xtyXx1INBRAMGgdJpCrfBtZPY0bDixzoKdDwJ16tnrbuBgQcGbSFzKS3bq/LsIfInf31Y2ESCfKF3UagtQ15IAhatsmoA",
+                        "color": "#e9fbe5",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769992905496_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769992906288_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBQCdASogABsAPmksj0WkIqEYBgBABoSxgE6ZQAROvxowtdlBTHCN1U/KdhIjkCh5Q4x7pRZgAP765SBnTTvBRndUpWwEQBQtAHsfV25WYDmjXAaMUa/gHjFk+ZI20avdtWpFBGP8oMwbai+//q3woR2iM2VmIQp8cNQU03xRZ+Rb7y0yHEGpR7ILWbAQ+s2xtyXx1INBRAMGgdJpCrfBtZPY0bDixzoKdDwJ16tnrbuBgQcGbSFzKS3bq/LsIfInf31Y2ESCfKF3UagtQ15IAhatsmoA",
+                        "color": "#e9fbe5",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769992905496_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769992906288_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190264,
+            "type": "reportage",
+            "title": "Выехал на красный: автобус столкнулся с такси на перекрестке Карла Маркса - Дикопольцева (ФОТО)",
+            "lead": "Водитель автобуса объяснил нарушение тем, что не успел затормозить на скользкой дороге при скорости около 40 км/ч. После столкновения машина снесла урну, а общественный транспорт - дорожный знак, но обошлось без пострадавших.",
+            "publishedAt": "2026-02-02T11:26:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBgCdASogABsAPm0skkWkIqGYDAYAQAbEsYBOmXG/E+LA+eEDw1Vwqd7EqYhdOUa5J2HRHIcDYK4lqAD+4MkzFRRHg54g9O1snekTe6/LR2htTvjaRk/yMtk9k7HdFc5aNDwlR+CCJOXrisJf2u9EyP3O25jT4F40p3wtV+q/8OaIBR6KB24fnCJ09lWWB40s59E/Og1uTT+PiOyYix1WUOxwwF+CO740AAAA",
+                        "color": "#7f95b5",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769993131153_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769993131814_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBgCdASogABsAPm0skkWkIqGYDAYAQAbEsYBOmXG/E+LA+eEDw1Vwqd7EqYhdOUa5J2HRHIcDYK4lqAD+4MkzFRRHg54g9O1snekTe6/LR2htTvjaRk/yMtk9k7HdFc5aNDwlR+CCJOXrisJf2u9EyP3O25jT4F40p3wtV+q/8OaIBR6KB24fnCJ09lWWB40s59E/Og1uTT+PiOyYix1WUOxwwF+CO740AAAA",
+                        "color": "#7f95b5",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769993131153_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769993131814_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190229,
+            "type": "reportage",
+            "title": "После столкновения с большегрузом пострадал подросток в Хабаровском районе (ФОТО)",
+            "lead": "На месте работают сотрудники районной Госавтоинспекции. Обстоятельства устанавливаются.",
+            "publishedAt": "2026-01-31T14:29:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwBQCdASogABsAPm0slUakIiIhMBgIAIANiWUApawQ+EJHVg6p4/i67lRXWSh4rgqiT5gAiTYWAAD+86xesm7MZmjIH8qsQkaty5wftAO7mqsN5zCPm3eatl/8tqmiwicfcZkyzfM5izyjlESMHkQ0JkTWXYzRak+ZAKRD+cqtkJEgyaPUo0kROW2ng3XETp+arzGM/SUcM0Hh8sZ2g2rWlPi0CXpWmBUmbRPOa0sAAA==",
+                        "color": "#6b7d82",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769833134307_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769833134779_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwBQCdASogABsAPm0slUakIiIhMBgIAIANiWUApawQ+EJHVg6p4/i67lRXWSh4rgqiT5gAiTYWAAD+86xesm7MZmjIH8qsQkaty5wftAO7mqsN5zCPm3eatl/8tqmiwicfcZkyzfM5izyjlESMHkQ0JkTWXYzRak+ZAKRD+cqtkJEgyaPUo0kROW2ng3XETp+arzGM/SUcM0Hh8sZ2g2rWlPi0CXpWmBUmbRPOa0sAAA==",
+                        "color": "#6b7d82",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769833134307_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769833134779_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190226,
+            "type": "reportage",
+            "title": "Водитель погиб в результате столкновения в Хабаровском районе",
+            "lead": "Виновник смертельного ДТП был пьян.",
+            "publishedAt": "2026-01-31T13:07:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBQCdASogABsAPm0qkkYkIiGhMBgMAIANiWMAwNw0cO8RWo48gZlzSdCdoozmFrZS0AD+/rdmOfgU+cM6P+aFVquVwEEPZLXqkbxCkQ39Ep+fc+TI5zMfnExWQ7zVXEXgeu6Oe6zCXtJAKTs+H/HlDUqTfxebpY1gAbspEb4AAAAA",
+                        "color": "#7a6758",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769830338883_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769830339357_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBQCdASogABsAPm0qkkYkIiGhMBgMAIANiWMAwNw0cO8RWo48gZlzSdCdoozmFrZS0AD+/rdmOfgU+cM6P+aFVquVwEEPZLXqkbxCkQ39Ep+fc+TI5zMfnExWQ7zVXEXgeu6Oe6zCXtJAKTs+H/HlDUqTfxebpY1gAbspEb4AAAAA",
+                        "color": "#7a6758",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769830338883_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769830339357_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190192,
+            "type": "reportage",
+            "title": "При пожаре на частном участке в Корфовском сгорели 20 ульев с пчелами",
+            "lead": "Также огнем было уничтожено два снегохода, два лодочных мотора, частично обгорел автомобиль ЗИЛ с прицепом. Выгорели надворные постройки площадью 250 квадратных метров. Никто не пострадал.",
+            "publishedAt": "2026-01-30T19:19:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAABwBgCdASogABsAPm0wk0akIyGhMBgIAIANiWQAtReQ+kxLMAivDZ8adBlDBT02w69J+euyulQwj7aQtFAA4B0HNOt8upK5M5zKowuR7wRYqNuLsewEO9G8QbGQzudcfUcgH6QDi23mByak3KJISj143bhpZZbymzfQjZ+0s5HdRK5Zuzm82QQQUEctzJD39x3IfznLKhodJhCR/qOTqRTDreSxY1kGlBmxdPSOCriroJI9Tx0LZTkXk4uV5XXuFc/5RjYlgepIjtWw3CH5ppqTT50zDBqylTtsdYL7P4AAAA==",
+                        "color": "#8ed6b7",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769735685253_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769735686052_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAABwBgCdASogABsAPm0wk0akIyGhMBgIAIANiWQAtReQ+kxLMAivDZ8adBlDBT02w69J+euyulQwj7aQtFAA4B0HNOt8upK5M5zKowuR7wRYqNuLsewEO9G8QbGQzudcfUcgH6QDi23mByak3KJISj143bhpZZbymzfQjZ+0s5HdRK5Zuzm82QQQUEctzJD39x3IfznLKhodJhCR/qOTqRTDreSxY1kGlBmxdPSOCriroJI9Tx0LZTkXk4uV5XXuFc/5RjYlgepIjtWw3CH5ppqTT50zDBqylTtsdYL7P4AAAA==",
+                        "color": "#8ed6b7",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769735685253_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769735686052_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190179,
+            "type": "reportage",
+            "title": "Детский конструктор и алкоголь украл хабаровчанин из магазинов",
+            "lead": "Ранее мужчина уже был судим за аналогичное преступление. Все украденное он продал неизвестным за 15 тысяч рублей, чтобы купить продукты. Теперь ему грозит до двух лет тюрьмы.",
+            "publishedAt": "2026-01-30T15:37:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAABQBwCdASogABsAPm0ulEakIiIhKAqogA2JZgCdMuIYPaBGa26ALl++5Wj9tB225GozOy6zS8TeW/Z+1RVkf2n/OjQAAPz/5DIpbZjnPIbCv9cug2kQ2yNIJzEUpfvS6xmy9zblvAZyt6fyJFG90M5/2+POKI4sDuVWTegt3nUiQYt507tEIH2aCwC/vLBHUl/9u0p9N9AVRZ5XIxXXsixyIchQnGV2cgQKg9B8dmVtvDdMhUy80Msyj7BE1GWhhNOd1I+Cb/FMCd2uas+hX/+P8C6z0VVImcb1JXexwzrDnksT1yjHgmQfR1EHI8EHRvz8+6zPK1miM2lTglI6IAdzXwAAAA==",
+                        "color": "#738b7b",
+                        "dark": false,
+                        "width": 1036,
+                        "height": 582,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769729609841_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769729610575_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAABQBwCdASogABsAPm0ulEakIiIhKAqogA2JZgCdMuIYPaBGa26ALl++5Wj9tB225GozOy6zS8TeW/Z+1RVkf2n/OjQAAPz/5DIpbZjnPIbCv9cug2kQ2yNIJzEUpfvS6xmy9zblvAZyt6fyJFG90M5/2+POKI4sDuVWTegt3nUiQYt507tEIH2aCwC/vLBHUl/9u0p9N9AVRZ5XIxXXsixyIchQnGV2cgQKg9B8dmVtvDdMhUy80Msyj7BE1GWhhNOd1I+Cb/FMCd2uas+hX/+P8C6z0VVImcb1JXexwzrDnksT1yjHgmQfR1EHI8EHRvz8+6zPK1miM2lTglI6IAdzXwAAAA==",
+                        "color": "#738b7b",
+                        "dark": false,
+                        "width": 1036,
+                        "height": 582,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769729609841_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769729610575_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190193,
+            "type": "reportage",
+            "title": "Полицейские проводят проверку из-за драки с водителем автобуса",
+            "lead": "В настоящее время устанавливаются все обстоятельства произошедшего. Отмечается, что полицейские проверят легальность пребывания водителя общественного транспорта на территории РФ.",
+            "publishedAt": "2026-01-30T13:21:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABwBQCdASogABsAPmEmjkWkIiEb9ABABgSygGDnO/s4WgMzns+6xw26QDwPTNNjf/ak5fyAAP7HPMa8o5nYnA8GFsKKYgm2xFh2Viq5t4mhsWIayH1mvHKWseExNUD7l+kjDCjSv3ZRGd8W+RMkFC/uk/LZ6r3auYYdSHM3+OrDtoUb9dlOvklyv9UeTegikH1N7WWeVcHIAA==",
+                        "color": "#80817d",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769737201120_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769737201567_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABwBQCdASogABsAPmEmjkWkIiEb9ABABgSygGDnO/s4WgMzns+6xw26QDwPTNNjf/ak5fyAAP7HPMa8o5nYnA8GFsKKYgm2xFh2Viq5t4mhsWIayH1mvHKWseExNUD7l+kjDCjSv3ZRGd8W+RMkFC/uk/LZ6r3auYYdSHM3+OrDtoUb9dlOvklyv9UeTegikH1N7WWeVcHIAA==",
+                        "color": "#80817d",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769737201120_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769737201567_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190194,
+            "type": "reportage",
+            "title": "Автобус и три легковушки столкнулись на Волочаевской (ФОТО)",
+            "lead": "Водитель Honda CR-V, пытаясь избежать столкновения с резко затормозившей впереди машиной, вывернул вправо и ударил автобус, а затем задел еще две Toyota. В общественном транспорте находилось 8 пассажиров, пострадавших нет.",
+            "publishedAt": "2026-01-30T11:50:42+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBQCdASogABsAPm0yk0ckIyGhKAgAgA2JZwDGg6vCClmw8dDbEBmnO+Wgc5hbr0Z/Ax+I5AAA/vLlyVz6azSNM9lLsl8L9ohH47EiUrWV8bqQvvoTJL8thfNwcGyMhKbi3Tkn+4oT4znwL0JjT0klWwOG7ebru30dSwoHEJfUGnCUZ4uY0vwZ+W4gZySK/8y0n6+AoYmaLQAA",
+                        "color": "#616d70",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769737485069_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769737485810_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBQCdASogABsAPm0yk0ckIyGhKAgAgA2JZwDGg6vCClmw8dDbEBmnO+Wgc5hbr0Z/Ax+I5AAA/vLlyVz6azSNM9lLsl8L9ohH47EiUrWV8bqQvvoTJL8thfNwcGyMhKbi3Tkn+4oT4znwL0JjT0klWwOG7ebru30dSwoHEJfUGnCUZ4uY0vwZ+W4gZySK/8y0n6+AoYmaLQAA",
+                        "color": "#616d70",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769737485069_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769737485810_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190185,
+            "type": "reportage",
+            "title": "Жительница села Восточное зарезала собутыльника во время ссоры",
+            "lead": "Конфликт произошел в сентябре 2025 года во время совместного распития спиртного. Когда компания ушла за добавкой, обвиняемая в ссоре нанесла потерпевшему смертельный удар ножом в грудь.",
+            "publishedAt": "2026-01-30T11:33:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABQBgCdASogABsAPm0ylUekIqIhKAgAgA2JQBOmWhCI6QnS4oNZUTTe8ACTE0ZX++c61zjBgd6GmjYLSAD+xdwBX7UrwCHcRzqPCYe9zMvT2Wmx+IzfID6TNg7QtX4mAiVa2GtZgTMdWGRb3OY2mwrHMETv14QXoiKA4d+Mys4i9RTLa2dnJFlhyc7cn+Vyt6+O/2n/vxN16oQuhHf24N4B7oZ/P5bLH2jENSr225cqVD3Dil9GvLQ6LkUF6dryvwlQV4ZGwVrq0bhaCAAAAA==",
+                        "color": "#dedad0",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769731458732_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769731459265_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABQBgCdASogABsAPm0ylUekIqIhKAgAgA2JQBOmWhCI6QnS4oNZUTTe8ACTE0ZX++c61zjBgd6GmjYLSAD+xdwBX7UrwCHcRzqPCYe9zMvT2Wmx+IzfID6TNg7QtX4mAiVa2GtZgTMdWGRb3OY2mwrHMETv14QXoiKA4d+Mys4i9RTLa2dnJFlhyc7cn+Vyt6+O/2n/vxN16oQuhHf24N4B7oZ/P5bLH2jENSr225cqVD3Dil9GvLQ6LkUF6dryvwlQV4ZGwVrq0bhaCAAAAA==",
+                        "color": "#dedad0",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769731458732_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769731459265_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190165,
+            "type": "reportage",
+            "title": "За мошенничество и посредничество во взяточничестве осудили двух хабаровчан",
+            "lead": "Мужчины обещали четырем гражданам помочь со сдачей экзамена в ГАИ. Для этого обвиняемые получили более 200 тысяч рублей, которые якобы собирались передать сотрудникам Госавтоинспекции.",
+            "publishedAt": "2026-01-30T10:00:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBQCdASogABsAPmkokEWkIqGb+qwAQAaEsQBOmUGYWhCO80UXDpFVxKVYXQ8BpVyKwoSrbpgAAP7r/H4pwRFS5Ck+HFE2qyX/cfnGDut1W/1Ew37B1pxdQ+9G4FV6nMkwwYyLJRvdY9ScPhb+GyUWRc3EGzGfkQW0tlQF8Z/iLSWdtqKyKWLpseFomVTTSU6wfch7aC62H4AA",
+                        "color": "#6e481e",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769664647742_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769664648546_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBQCdASogABsAPmkokEWkIqGb+qwAQAaEsQBOmUGYWhCO80UXDpFVxKVYXQ8BpVyKwoSrbpgAAP7r/H4pwRFS5Ck+HFE2qyX/cfnGDut1W/1Ew37B1pxdQ+9G4FV6nMkwwYyLJRvdY9ScPhb+GyUWRc3EGzGfkQW0tlQF8Z/iLSWdtqKyKWLpseFomVTTSU6wfch7aC62H4AA",
+                        "color": "#6e481e",
+                        "dark": true,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769664647742_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769664648546_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190171,
+            "type": "reportage",
+            "title": "Энергоблок № 3 остановлен на хабаровской ТЭЦ-3 из-за пожара",
+            "lead": "Наблюдается небольшой спад по давлению, но угрозы для населения в части отключения теплоснабжения и электричества нет.",
+            "publishedAt": "2026-01-29T18:25:30+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBgCdASogABsAPm0wkkakIyGhKA1QgA2JYwCdOUFSfgaCI/3zN7xwD1MYc+N6e8yD+GoCmQ3VBaMIAP7rujD4px/w8u2qJ6F9J8AB+tEDm49fYx7kXDp28G2Nyr57Nj2kd6hcwmb/xG/lTFjutk/7SEUULq1R4FQx3PKj4EZXWflZyWusxoSfy7zOkUk9+Oo9jHqUddulwLB+UjrK5Zv5HOLb/1odHNlmHmolsmrIctt3/SQ1qrGxSUw/PSg61k/z9wAA",
+                        "color": "#6a727f",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769674985780_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769674986455_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBgCdASogABsAPm0wkkakIyGhKA1QgA2JYwCdOUFSfgaCI/3zN7xwD1MYc+N6e8yD+GoCmQ3VBaMIAP7rujD4px/w8u2qJ6F9J8AB+tEDm49fYx7kXDp28G2Nyr57Nj2kd6hcwmb/xG/lTFjutk/7SEUULq1R4FQx3PKj4EZXWflZyWusxoSfy7zOkUk9+Oo9jHqUddulwLB+UjrK5Zv5HOLb/1odHNlmHmolsmrIctt3/SQ1qrGxSUw/PSg61k/z9wAA",
+                        "color": "#6a727f",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769674985780_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769674986455_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190160,
+            "type": "reportage",
+            "title": "Ранее осужденный за убийство житель Хабаровского края украл деньги из банкомата",
+            "lead": "Ущерб составил порядка 100 тысяч рублей. Теперь мужчине грозит до пяти лет тюрьмы.",
+            "publishedAt": "2026-01-29T16:16:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBwCdASogABsAPm0qkUWkIiGYDAYAQAbEtgBOmUI7P5rdX+Mttwgs0Al2zGSOgZVu40WXrMBv4+GDz7zv17rOUAD+/0xeM7r9/1k2Kw/CZwuLh8lzHCYwV2yWXtGNdaF4UU9IB/eX7V2N8FUdKpdf6SFsXGxVH0tdBw4sOdtXiGEk0IU86bxINDlRAjnKNT+Af3LwctYBwehOZP3DZGO8jC9tiLMafXDN5sTYI9dOfznu7fdx66bnZoATTSZRGMT67sbaU/ICd8RLP2KDxK6BdrXtg5KXTdfeJQ5J51HMdjYiMgAAAA==",
+                        "color": "#a5a4a1",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769662709108_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769662709601_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBwCdASogABsAPm0qkUWkIiGYDAYAQAbEtgBOmUI7P5rdX+Mttwgs0Al2zGSOgZVu40WXrMBv4+GDz7zv17rOUAD+/0xeM7r9/1k2Kw/CZwuLh8lzHCYwV2yWXtGNdaF4UU9IB/eX7V2N8FUdKpdf6SFsXGxVH0tdBw4sOdtXiGEk0IU86bxINDlRAjnKNT+Af3LwctYBwehOZP3DZGO8jC9tiLMafXDN5sTYI9dOfznu7fdx66bnZoATTSZRGMT67sbaU/ICd8RLP2KDxK6BdrXtg5KXTdfeJQ5J51HMdjYiMgAAAA==",
+                        "color": "#a5a4a1",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769662709108_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769662709601_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190167,
+            "type": "reportage",
+            "title": "Есть погибшие: пожар произошел на ТЭЦ-3 в Хабаровске (ФОТО; ВИДЕО; ОБНОВЛЕНИЕ)",
+            "lead": "По предварительным данным, горела крыша одного из корпусов, где велись кровельные работы. Два человека погибли, еще два пострадали.",
+            "publishedAt": "2026-01-29T15:47:28+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBQCdASogABsAPm0yk0WkI6GYBABABsSxgE6Zb4GnbIkM6ZYWVFsuWs6PHrWXyHPZT+/Y2V6fUAD+9+ucEpa8AOVtkRSiezCbe3djC0hA5tC/ufLlKN1uXyW1Om7fly4bkhZTkNP4DxE5G/ltk+AjPKmtQp97wwBFGZwwxISz6n2aT4D4RKXAZj4bNhScwCN1qdgDFdZaTdLVA9rSnqzI8fsVIo1oWo3uhz7wskru+Yyqe7iLuHqzPeO+IR2qz0ZV14cIBsbNmWmxA7PVL0szTqCKgAAA",
+                        "color": "#778088",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769673809449_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769673810340_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBQCdASogABsAPm0yk0WkI6GYBABABsSxgE6Zb4GnbIkM6ZYWVFsuWs6PHrWXyHPZT+/Y2V6fUAD+9+ucEpa8AOVtkRSiezCbe3djC0hA5tC/ufLlKN1uXyW1Om7fly4bkhZTkNP4DxE5G/ltk+AjPKmtQp97wwBFGZwwxISz6n2aT4D4RKXAZj4bNhScwCN1qdgDFdZaTdLVA9rSnqzI8fsVIo1oWo3uhz7wskru+Yyqe7iLuHqzPeO+IR2qz0ZV14cIBsbNmWmxA7PVL0szTqCKgAAA",
+                        "color": "#778088",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769673809449_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769673810340_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190137,
+            "type": "reportage",
+            "title": "Ударил дверью и добил: за причинение смерти по неосторожности осудили хабаровчанина",
+            "lead": "В суде мужчина свою вину полностью признал и раскаялся. Ему назначили наказание в виде 1 года и 9 месяцев лишения свободы с отбыванием наказания в исправительной колонии строгого режима.",
+            "publishedAt": "2026-01-29T15:30:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBgCdASogABsAPm0uk0akIqGhMBgIAIANiWMAnTNVyiJnOxuwWRaZTggITrcXYMCvwS51hjavICDMAAD+3NSLRHeYh78CHI5YDvCNzASTSYXcth7N/1HKo/XaVm4BZa9a28VepTc2TXBeRGiZ2qBC33apCs2ViqYnfrnUONtyWtgP8zKV7x2B34cVNbXJWYXroJePVW5V7LPCzLozyiYtuxpf3YuCuAA=",
+                        "color": "#100707",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769646171029_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769646171749_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBgCdASogABsAPm0yk0ckIyGhKAqogA2JZQCw832/1wB3+YDfzOQfrAfOBf/z8CKS8zAnwl7vZAAA/v1vIRFNpMz2+5Zmrc6wHFryXCJwVIYA1Jjag3N2Kf9kaVaqXENphqO0BiSV6EbaDLrZX2Q1EMFiQZJAqeojM2xQ9f02XuMqlLGKRrFgoNtEhZ27Ix44ETy4Z/2HENyo37riKqP4LLXrvlvjMLz5lOCMQMK63Xia2RQ+260IOEcA7qqMG/ba00sfDnIpSmUBeVS+egpam1bF9+2jAAA=",
+                        "color": "#78786a",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769646137712_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769646138194_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190156,
+            "type": "reportage",
+            "title": "Транквилизатор для слонов изъяли у закладчика в Хабаровске (ВИДЕО)",
+            "lead": "Подозреваемый, ранее судимый за кражу и хранение наркотиков, ежедневно раскладывал от 5 до 15 «закладок» в разных районах города. Вещество, изъятое в количестве трех граммов, является сильнодействующим опиоидом, применяемым в ветеринарии.",
+            "publishedAt": "2026-01-29T14:24:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBQCdASogABsAPmkqkkWkIqGYBgBABoSxgFh2EPuQqaNHzHSY6w45C4DavegOYxtlRsVXDgD++vsqLczkRyvlnxiEdWr6i2TLEf4t+AUhbC4tK2h6e8aA6A8vD8FMiuh8+6sZItR2vHMDctwzQ0YHtLgTFRri9d5qxPK/798TClGKz+f7hJPxkJI+edwcpj06j2PenP3SOB4zgq4Ym5A66OwVGnaAAAA=",
+                        "color": "#29251e",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769658157000_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769658157657_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBQCdASogABsAPmkqkkWkIqGYBgBABoSxgFh2EPuQqaNHzHSY6w45C4DavegOYxtlRsVXDgD++vsqLczkRyvlnxiEdWr6i2TLEf4t+AUhbC4tK2h6e8aA6A8vD8FMiuh8+6sZItR2vHMDctwzQ0YHtLgTFRri9d5qxPK/798TClGKz+f7hJPxkJI+edwcpj06j2PenP3SOB4zgq4Ym5A66OwVGnaAAAA=",
+                        "color": "#29251e",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769658157000_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769658157657_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190138,
+            "type": "reportage",
+            "title": "Две Daihatsu столкнулись на Совхозной",
+            "lead": "Инцидент произошел на улице Совхозной, недалеко от дома №2/1 по Шатова. Причиной стало несоблюдение безопасной дистанции.",
+            "publishedAt": "2026-01-29T11:07:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm00lUgkIqIhKAgAgA2JZQC7MxsYDCiBm2oc/s4kfceVZr8bbADYKtcMTj/8xAAA/vN1CY6Ajeuaw/9R9Y4DoUtwJFPXR4I+RyZEBuLlSBRh8lwE8HYLccfKU1VHhpAEw4AiAERfIstqXFdlimJehDN/HtCaVpMGPxBLdDFYfUyFJLfkLUJj/hy/y1iZfiBSUaJZBXweGanmrqHP2oAAAA==",
+                        "color": "#6b7184",
+                        "dark": true,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769646843117_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769646843785_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm00lUgkIqIhKAgAgA2JZQC7MxsYDCiBm2oc/s4kfceVZr8bbADYKtcMTj/8xAAA/vN1CY6Ajeuaw/9R9Y4DoUtwJFPXR4I+RyZEBuLlSBRh8lwE8HYLccfKU1VHhpAEw4AiAERfIstqXFdlimJehDN/HtCaVpMGPxBLdDFYfUyFJLfkLUJj/hy/y1iZfiBSUaJZBXweGanmrqHP2oAAAA==",
+                        "color": "#6b7184",
+                        "dark": true,
+                        "width": 800,
+                        "height": 449,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769646843117_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769646843785_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190129,
+            "type": "reportage",
+            "title": "Пожилая хабаровчанка лишилась денег из-за звонка о «бесплатных лекарствах»",
+            "lead": "Женщине позвонили неизвестные, предложив доставку бесплатных медикаментов, и выманили код из СМС. Затем ее убедили снять деньги и перевести на «безопасный» счет под предлогом защиты от мошенников.",
+            "publishedAt": "2026-01-29T10:41:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBQCdASogABsAPm0uk0YkIqGhKA1QgA2JQBibD24FOVPaEm2Rz3/VXy8PHSIcIHF4ce2WgAD+/sLI75mFlX95NhFCYub/RSiI1RTtuidcDNoWOBAKVEpyisR64eISED4OplNRupl5g9oqY2iDYGD39mEAMFm1a3MXbuIzVQfmTovK1/OTXEYTaAPAsTn/a/SfnVytTHeBYAAA",
+                        "color": "#d6dad7",
+                        "dark": false,
+                        "width": 999,
+                        "height": 562,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769642035501_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769642035926_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBQCdASogABsAPm0uk0YkIqGhKA1QgA2JQBibD24FOVPaEm2Rz3/VXy8PHSIcIHF4ce2WgAD+/sLI75mFlX95NhFCYub/RSiI1RTtuidcDNoWOBAKVEpyisR64eISED4OplNRupl5g9oqY2iDYGD39mEAMFm1a3MXbuIzVQfmTovK1/OTXEYTaAPAsTn/a/SfnVytTHeBYAAA",
+                        "color": "#d6dad7",
+                        "dark": false,
+                        "width": 999,
+                        "height": 562,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769642035501_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769642035926_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190084,
+            "type": "reportage",
+            "title": "Мясо и консервы пытался незаметно вынести из магазина житель Хабаровского края",
+            "lead": "Правоохранителям мужчина рассказал, что думал, что за ним никто не наблюдает, камеры он не заметил. Когда он направился к выходу, его остановили охранники и попросили вернуть похищенные товары. Теперь виновному грозит до двух лет тюрьмы.",
+            "publishedAt": "2026-01-28T14:22:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogABsAPmkqkkWkIqGYBgBABoSgCdMt4IocN6RBmc6FdBDImpldA/VSCeeUZ//vsbWAAP73VURsVw1cLQxzr9sjNaNHYv3EDdlohKnQQiwIPzRtqzFzU+KcHsxHa9Gygoz5W62wyXz1Vpk/cZq3U1IC72y29OWDMvTsNQ4yVKu311WGj83HOT2haPtFBjB9PvOeUh7KhMm0iocb7hoLhB4OZGbRt8vZKKcPnX8lanAGf5/4lDr+vZRnPYlG3sItEToEWWAs6rT/jM8ZtB8PC6zCerM8ii45lOFeWQmBwAA=",
+                        "color": "#605d4a",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769558933746_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769558934499_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogABsAPmkqkkWkIqGYBgBABoSgCdMt4IocN6RBmc6FdBDImpldA/VSCeeUZ//vsbWAAP73VURsVw1cLQxzr9sjNaNHYv3EDdlohKnQQiwIPzRtqzFzU+KcHsxHa9Gygoz5W62wyXz1Vpk/cZq3U1IC72y29OWDMvTsNQ4yVKu311WGj83HOT2haPtFBjB9PvOeUh7KhMm0iocb7hoLhB4OZGbRt8vZKKcPnX8lanAGf5/4lDr+vZRnPYlG3sItEToEWWAs6rT/jM8ZtB8PC6zCerM8ii45lOFeWQmBwAA=",
+                        "color": "#605d4a",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769558933746_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769558934499_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190104,
+            "type": "reportage",
+            "title": "Гигантская пробка образовалась на Ленинградской из-за массового ДТП (ВИДЕО; ОБНОВЛЕНИЕ)",
+            "lead": "Инцидент произошел у дома 73б. В результате все полосы улицы оказались перекрыты, образовалась гигантская пробка. Точное количество участников аварии уточняется.",
+            "publishedAt": "2026-01-28T14:00:27+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASogABsAPm0wlEckIqIhKAqogA2JbAC7AGjqCTPUbpQcFzUcKSdPWAwQqAAA/vCQKgxpmfzXmnVxVE5LfzL3/VNML6EJqEobKdCh8C3Y+Wr+DyJq9peqAQjvrcLuC0KzlRtNIUFf6Oreo7r9o+WL51fKMpjdqSfUQsOWYpVfJK2GgRBh1/4+1b5eP5VsqNRCFMgEnB4sd2T0i3LRUYAAAA==",
+                        "color": "#e3e5e9",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769572465105_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769572465815_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASogABsAPm0wlEckIqIhKAqogA2JbAC7AGjqCTPUbpQcFzUcKSdPWAwQqAAA/vCQKgxpmfzXmnVxVE5LfzL3/VNML6EJqEobKdCh8C3Y+Wr+DyJq9peqAQjvrcLuC0KzlRtNIUFf6Oreo7r9o+WL51fKMpjdqSfUQsOWYpVfJK2GgRBh1/4+1b5eP5VsqNRCFMgEnB4sd2T0i3LRUYAAAA==",
+                        "color": "#e3e5e9",
+                        "dark": false,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1769572465105_default",
+                            "preview": "https://cdn.dvhab.ru/news/1769572465815_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        }
+    ]
+}

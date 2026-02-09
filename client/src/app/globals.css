@@ -43,7 +43,7 @@ a {
   text-decoration: none;
 }
 
-.logo-nav h2 em {
+.logo h2 em {
   @apply text-orange text-[36px];
 }
 
