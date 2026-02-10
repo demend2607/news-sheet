@@ -1,10 +1,10 @@
 {
     "main": {
-        "id": 190434,
+        "id": 190546,
         "type": "reportage",
-        "title": "Одиннадцатилетний мальчик поскользнулся и попал под колеса Toyota (ФОТО)",
-        "lead": "В Хабаровске во дворе на Тихоокеанской автомобиль Toyota Vanguard наехал на ногу 11-летнему мальчику, который поскользнулся и упал. Ребенка отправили на обследование в краевую больницу.",
-        "publishedAt": "2026-02-05T14:45:55+10:00",
+        "title": "На перекрестке Запарина и Амурского бульвара столкнулись две Toyota (ФОТО)",
+        "lead": "На перекрестке улиц Запарина и Амурского бульвара в Хабаровске столкнулись автомобили Toyota Crown и Toyota Prius. От удара Prius отбросило на дерево, пассажирка Crown с жалобами на головную боль была госпитализирована.",
+        "publishedAt": "2026-02-09T13:24:00+10:00",
         "settings": {
             "advert": false,
             "commentsDisabled": true
@@ -13,28 +13,28 @@
             {
                 "type": "main",
                 "image": {
-                    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
-                    "color": "#5c7089",
-                    "dark": true,
+                    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBgCdASogABsAPm0ylUekIqIhKAgAgA2JQBOmUI6aAeqc0ONyNG05iIZNSFgODFqCFXnwpStZhiAAzKB58OmhfuYy6jiaeszWeLOEv6tD0PADAgb+dtQTcotm0zda3awgTbQHykUhupNWXRiN9HhM2PpE7WREkO7fri7/ENi0B+5huA86krDi78OW6xjPdDa1wL5U0v+m1kYu1c+4FNljlRebdftONS6VJWXsf1AYxu1K5ddoEKqIcVfRWYo+GxZNAAAA",
+                    "color": "#649ad7",
+                    "dark": false,
                     "width": 1280,
                     "height": 720,
                     "files": {
-                        "default": "https://cdn.dvhab.ru/news/1770266078734_default",
-                        "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+                        "default": "https://cdn.dvhab.ru/news/1770605983365_default",
+                        "preview": "https://cdn.dvhab.ru/news/1770605983938_default"
                     }
                 }
             },
             {
                 "type": "preview",
                 "image": {
-                    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
-                    "color": "#5c7089",
-                    "dark": true,
+                    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBgCdASogABsAPm0ylUekIqIhKAgAgA2JQBOmUI6aAeqc0ONyNG05iIZNSFgODFqCFXnwpStZhiAAzKB58OmhfuYy6jiaeszWeLOEv6tD0PADAgb+dtQTcotm0zda3awgTbQHykUhupNWXRiN9HhM2PpE7WREkO7fri7/ENi0B+5huA86krDi78OW6xjPdDa1wL5U0v+m1kYu1c+4FNljlRebdftONS6VJWXsf1AYxu1K5ddoEKqIcVfRWYo+GxZNAAAA",
+                    "color": "#649ad7",
+                    "dark": false,
                     "width": 1280,
                     "height": 720,
                     "files": {
-                        "default": "https://cdn.dvhab.ru/news/1770266078734_default",
-                        "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+                        "default": "https://cdn.dvhab.ru/news/1770605983365_default",
+                        "preview": "https://cdn.dvhab.ru/news/1770605983938_default"
                     }
                 }
             }
@@ -49,14 +49,14 @@
         "commentsCount": 0
     },
     "mainImage": {
-        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
-        "color": "#5c7089",
-        "dark": true,
+        "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBgCdASogABsAPm0ylUekIqIhKAgAgA2JQBOmUI6aAeqc0ONyNG05iIZNSFgODFqCFXnwpStZhiAAzKB58OmhfuYy6jiaeszWeLOEv6tD0PADAgb+dtQTcotm0zda3awgTbQHykUhupNWXRiN9HhM2PpE7WREkO7fri7/ENi0B+5huA86krDi78OW6xjPdDa1wL5U0v+m1kYu1c+4FNljlRebdftONS6VJWXsf1AYxu1K5ddoEKqIcVfRWYo+GxZNAAAA",
+        "color": "#649ad7",
+        "dark": false,
         "width": 1280,
         "height": 720,
         "files": {
-            "default": "https://cdn.dvhab.ru/news/1770266078734_default",
-            "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+            "default": "https://cdn.dvhab.ru/news/1770605983365_default",
+            "preview": "https://cdn.dvhab.ru/news/1770605983938_default"
         }
     },
     "pins": [],
@@ -68,6 +68,251 @@
         "seoKeywords": "новости происшествия, место происшествия, дтп, транспортное происшествие, дорожное происшествие, осмотр, грабеж, кража, убийство"
     },
     "stories": [
+        {
+            "id": 190542,
+            "type": "reportage",
+            "title": "Организованная группа в Хабаровске содержала сауны-притоны для интимных услуг",
+            "lead": "Прокуратура утвердила обвинительный акт в отношении трех участников ОПГ, организовавшей в Хабаровске сеть притонов в саунах на Владивостокской и Льва Толстого. Услуги оказывались с марта 2023 по июль 2025 года по цене до 20 тысяч рублей в час.",
+            "publishedAt": "2026-02-09T14:15:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBwCdASogABsAPm0qk0YkIiGhMBgMAIANiWYAnTKEdXeZ8QC4bwJrN0lttgk3IRv00hkJ0S8vBC5pD5mZFREOaGtkAP7nGiYOVlgSueaVXGu8jxohi8tJewShYlXb3rhKfRqpr+4ZOkQxCF7A7CWJni43qtsYy/gSQZ/wr8DfNY3q5ErP6FZucyjRgBEOSHL42dvVv1XqyRv8IjK6XQoNT/X/N/Xg2r9qtqqkj3+4CqteJVl/jDy8rGPZwVrhUpkOtDiIc0G+PFDIGPjnhqfkLUGEEg5cN8Q4N22EtuMGtHah/AhqgAAA",
+                        "color": "#b8a498",
+                        "dark": false,
+                        "width": 957,
+                        "height": 538,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770603024768_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770603025498_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBwCdASogABsAPm0qk0YkIiGhMBgMAIANiWYAnTKEdXeZ8QC4bwJrN0lttgk3IRv00hkJ0S8vBC5pD5mZFREOaGtkAP7nGiYOVlgSueaVXGu8jxohi8tJewShYlXb3rhKfRqpr+4ZOkQxCF7A7CWJni43qtsYy/gSQZ/wr8DfNY3q5ErP6FZucyjRgBEOSHL42dvVv1XqyRv8IjK6XQoNT/X/N/Xg2r9qtqqkj3+4CqteJVl/jDy8rGPZwVrhUpkOtDiIc0G+PFDIGPjnhqfkLUGEEg5cN8Q4N22EtuMGtHah/AhqgAAA",
+                        "color": "#b8a498",
+                        "dark": false,
+                        "width": 957,
+                        "height": 538,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770603024768_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770603025498_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190529,
+            "type": "reportage",
+            "title": "При пожаре в подвале дома на Серышева пострадал мужчина",
+            "lead": "Его личность в настоящее время устанавливается. Его передали врачам скорой помощи. В подвале горели мусор и деревянные кладовки.",
+            "publishedAt": "2026-02-09T11:22:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASogABsAPm0qkUWkIqGYBABABsSgCdMoCHAmcU94F3p5XHLmUVACEXd41JpdpdGqeqwA/vU1N0t/QjbA0RgTzpMnAUI+xvPrIowWAwb+AsaR3/df4Uo+rtOpj2z5LyRYDwi5HQ9ojz1MM3QwksujfWIHkOBPhto/H3D6yDirxixFmQbexVn7ksLqgXKMyOn41EWsT3vXSj4nUL5J/rI/H1mHPEz90CZvRcdeXetJX9HFsO5LO6BxRVWP8MwVGNT5k/FBbAuFy0rc2dJ5pgA=",
+                        "color": "#6a737a",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770595948440_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770595949255_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASogABsAPm0qkUWkIqGYBABABsSgCdMoCHAmcU94F3p5XHLmUVACEXd41JpdpdGqeqwA/vU1N0t/QjbA0RgTzpMnAUI+xvPrIowWAwb+AsaR3/df4Uo+rtOpj2z5LyRYDwi5HQ9ojz1MM3QwksujfWIHkOBPhto/H3D6yDirxixFmQbexVn7ksLqgXKMyOn41EWsT3vXSj4nUL5J/rI/H1mHPEz90CZvRcdeXetJX9HFsO5LO6BxRVWP8MwVGNT5k/FBbAuFy0rc2dJ5pgA=",
+                        "color": "#6a737a",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770595948440_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770595949255_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190521,
+            "type": "reportage",
+            "title": "Более 13 миллионов потерял пенсионер из-за звонка «сотрудника спецслужб»",
+            "lead": "Неизвестные, представившись сотрудниками госструктур, сообщили хабаровскому пенсионеру о якобы зафиксированном переводе «на спонсирование терроризма» с его счёта. Под предлогом помощи они убедили его обналичить и передать все сбережения, составившие 13,5 млн рублей.",
+            "publishedAt": "2026-02-09T09:20:00+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABQBwCdASogABsAPm0wlEckIqIhKAqogA2JYgCdMoRwJwS6kGe21/PVAXobdZzmaRnKlMMFI76xJVdA+qGtr23EEWYAAP7SHkFGrZtv2yM83QR4Xb/GsZSnpjqNbQzsea+RBaDnb4/3X1VxP5hqyRCw8SKOoCI718S1uyCmp3iIXv3fvu36gCwJipr5Mx4APf++6PIPi7GWVT9hOXEDF5/QaboPNcQgc+7b+vnstGuNPKrsiThobOqq+f4hJ2XOXDvwxp4b+dSchdM4F//JI6BjYtxVpWhmfyodBQ6fJmpgTEyq1a+1VNZIbkNS/OJejnje/tTdsNA2QAAA",
+                        "color": "#d5a28b",
+                        "dark": false,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770590590780_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770590591474_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABQBwCdASogABsAPm0wlEckIqIhKAqogA2JYgCdMoRwJwS6kGe21/PVAXobdZzmaRnKlMMFI76xJVdA+qGtr23EEWYAAP7SHkFGrZtv2yM83QR4Xb/GsZSnpjqNbQzsea+RBaDnb4/3X1VxP5hqyRCw8SKOoCI718S1uyCmp3iIXv3fvu36gCwJipr5Mx4APf++6PIPi7GWVT9hOXEDF5/QaboPNcQgc+7b+vnstGuNPKrsiThobOqq+f4hJ2XOXDvwxp4b+dSchdM4F//JI6BjYtxVpWhmfyodBQ6fJmpgTEyq1a+1VNZIbkNS/OJejnje/tTdsNA2QAAA",
+                        "color": "#d5a28b",
+                        "dark": false,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770590590780_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770590591474_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190475,
+            "type": "reportage",
+            "title": "Умер через несколько дней: хабаровчанин избил отца во время пьяной ссоры",
+            "lead": "Он бил отца кулаками, а после вызвал скорую и сопроводил его в больницу. Спустя несколько дней мужчина скончался. Было возбуждено уголовное дело.",
+            "publishedAt": "2026-02-06T19:33:19+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACwBgCdASogABsAPm0wk0akIyGhMBgIAIANiWQAnTKEdQeulTmB4OPO8Qe/uOf6tKeuVGB5k8alzL0CV+KNQAD+9DnrZ4BGJHsuC78mAfFKevUgJ6x/Ih3Vo67oS3aAlgKkKCbEvHoDAejG0o3OcNvMYtl71kdSciuhg+HMgXfYgIKLD/7tYfigjvrgHlfDVnLS7yJntMmiHqf6bXrHqjCkQ7PRN7/gNpgTjrWKfFmT2mEtp4yQrH/x6TMuEC5aWTaV+9zwibf9FbSBbi7hzQfy51OQAIf6H8PY26re+iQDcAxzjjHQn6IYIkPeXbIjVWUAAA==",
+                        "color": "#bdc4da",
+                        "dark": false,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770349683426_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770349684191_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACwBgCdASogABsAPm0wk0akIyGhMBgIAIANiWQAnTKEdQeulTmB4OPO8Qe/uOf6tKeuVGB5k8alzL0CV+KNQAD+9DnrZ4BGJHsuC78mAfFKevUgJ6x/Ih3Vo67oS3aAlgKkKCbEvHoDAejG0o3OcNvMYtl71kdSciuhg+HMgXfYgIKLD/7tYfigjvrgHlfDVnLS7yJntMmiHqf6bXrHqjCkQ7PRN7/gNpgTjrWKfFmT2mEtp4yQrH/x6TMuEC5aWTaV+9zwibf9FbSBbi7hzQfy51OQAIf6H8PY26re+iQDcAxzjjHQn6IYIkPeXbIjVWUAAA==",
+                        "color": "#bdc4da",
+                        "dark": false,
+                        "width": 1199,
+                        "height": 674,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770349683426_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770349684191_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190485,
+            "type": "reportage",
+            "title": "Toyota Passo протаранил ограждение на перекрестке Серышева-Некрасова (ФОТО)",
+            "lead": "С места ДТП эвакуировали и Lexus, который, как сообщают очевидцы, был вторым участником аварии.",
+            "publishedAt": "2026-02-06T16:09:06+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASogABsAPm0sk0YkIiGhMBgIAIANiWUAsOxcrVRogp2h4aYXfcfEQeWZ/aytc/AAzj5uZzGNb6iI5xwCG926cSTbuIqntS7lD2zQjt+1gZ2W/M9yXH38lRW3OzC3XI8uCGLoks1m0bqLbuSfSsgqaB4Xze68+AkXjyN75WYVXSkCjK0BxcbG/SmePeixuxEZk3bAan5BwTgG3jgRAFQjbxHZVdPLAEK6tkDg27YZ3a/FVkTv7piKsCciyOmVYAAA",
+                        "color": "#7a7a75",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770357597561_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770357597991_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASogABsAPm0sk0YkIiGhMBgIAIANiWUAsOxcrVRogp2h4aYXfcfEQeWZ/aytc/AAzj5uZzGNb6iI5xwCG926cSTbuIqntS7lD2zQjt+1gZ2W/M9yXH38lRW3OzC3XI8uCGLoks1m0bqLbuSfSsgqaB4Xze68+AkXjyN75WYVXSkCjK0BxcbG/SmePeixuxEZk3bAan5BwTgG3jgRAFQjbxHZVdPLAEK6tkDg27YZ3a/FVkTv7piKsCciyOmVYAAA",
+                        "color": "#7a7a75",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 719,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770357597561_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770357597991_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
         {
             "id": 190472,
             "type": "reportage",
@@ -398,6 +643,55 @@
                         "files": {
                             "default": "https://cdn.dvhab.ru/news/1770263524886_default",
                             "preview": "https://cdn.dvhab.ru/news/1770263525514_default"
+                        }
+                    }
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Происшествия",
+                    "slug": "incidents"
+                }
+            ],
+            "compilations": [],
+            "commentsCount": 0
+        },
+        {
+            "id": 190434,
+            "type": "reportage",
+            "title": "Одиннадцатилетний мальчик поскользнулся и попал под колеса Toyota (ФОТО)",
+            "lead": "В Хабаровске во дворе на Тихоокеанской автомобиль Toyota Vanguard наехал на ногу 11-летнему мальчику, который поскользнулся и упал. Ребенка отправили на обследование в краевую больницу.",
+            "publishedAt": "2026-02-05T14:45:55+10:00",
+            "settings": {
+                "advert": false,
+                "commentsDisabled": true
+            },
+            "images": [
+                {
+                    "type": "main",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
+                        "color": "#5c7089",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770266078734_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
+                        }
+                    }
+                },
+                {
+                    "type": "preview",
+                    "image": {
+                        "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBwCdASogABsAPm0okUYkIiGhMBgMAIANiUATplCOrhfGgALEJTwfWhZfADYMJjlGy8owgUvxg1PSduSYVMgZIHwA/vb0mgg4uDrDjQ725t4vWXaNvNjUr6uVRmj7z3/SqkdZ/pmI+YVAjROC/xLLcJT7+uFIW6UlTItrjsuLYX347EaPPMsZCtanD1x2di10mxqBT47f0h9XpBeVCaPGeJR+L6bNZ7UDhfcV8dVfhE7SQeR/f31n5dHc7CHhSJNDpdM5xc1Jo/0/JWvS50KiwAFgbIYkJsD9W2RciSAAAA==",
+                        "color": "#5c7089",
+                        "dark": true,
+                        "width": 1280,
+                        "height": 720,
+                        "files": {
+                            "default": "https://cdn.dvhab.ru/news/1770266078734_default",
+                            "preview": "https://cdn.dvhab.ru/news/1770266079595_default"
                         }
                     }
                 }
@@ -2211,300 +2505,6 @@
                         "files": {
                             "default": "https://cdn.dvhab.ru/news/1769673809449_default",
                             "preview": "https://cdn.dvhab.ru/news/1769673810340_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190137,
-            "type": "reportage",
-            "title": "Ударил дверью и добил: за причинение смерти по неосторожности осудили хабаровчанина",
-            "lead": "В суде мужчина свою вину полностью признал и раскаялся. Ему назначили наказание в виде 1 года и 9 месяцев лишения свободы с отбыванием наказания в исправительной колонии строгого режима.",
-            "publishedAt": "2026-01-29T15:30:00+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBgCdASogABsAPm0uk0akIqGhMBgIAIANiWMAnTNVyiJnOxuwWRaZTggITrcXYMCvwS51hjavICDMAAD+3NSLRHeYh78CHI5YDvCNzASTSYXcth7N/1HKo/XaVm4BZa9a28VepTc2TXBeRGiZ2qBC33apCs2ViqYnfrnUONtyWtgP8zKV7x2B34cVNbXJWYXroJePVW5V7LPCzLozyiYtuxpf3YuCuAA=",
-                        "color": "#100707",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 720,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769646171029_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769646171749_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBgCdASogABsAPm0yk0ckIyGhKAqogA2JZQCw832/1wB3+YDfzOQfrAfOBf/z8CKS8zAnwl7vZAAA/v1vIRFNpMz2+5Zmrc6wHFryXCJwVIYA1Jjag3N2Kf9kaVaqXENphqO0BiSV6EbaDLrZX2Q1EMFiQZJAqeojM2xQ9f02XuMqlLGKRrFgoNtEhZ27Ix44ETy4Z/2HENyo37riKqP4LLXrvlvjMLz5lOCMQMK63Xia2RQ+260IOEcA7qqMG/ba00sfDnIpSmUBeVS+egpam1bF9+2jAAA=",
-                        "color": "#78786a",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 719,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769646137712_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769646138194_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190156,
-            "type": "reportage",
-            "title": "Транквилизатор для слонов изъяли у закладчика в Хабаровске (ВИДЕО)",
-            "lead": "Подозреваемый, ранее судимый за кражу и хранение наркотиков, ежедневно раскладывал от 5 до 15 «закладок» в разных районах города. Вещество, изъятое в количестве трех граммов, является сильнодействующим опиоидом, применяемым в ветеринарии.",
-            "publishedAt": "2026-01-29T14:24:00+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBQCdASogABsAPmkqkkWkIqGYBgBABoSxgFh2EPuQqaNHzHSY6w45C4DavegOYxtlRsVXDgD++vsqLczkRyvlnxiEdWr6i2TLEf4t+AUhbC4tK2h6e8aA6A8vD8FMiuh8+6sZItR2vHMDctwzQ0YHtLgTFRri9d5qxPK/798TClGKz+f7hJPxkJI+edwcpj06j2PenP3SOB4zgq4Ym5A66OwVGnaAAAA=",
-                        "color": "#29251e",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 720,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769658157000_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769658157657_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBQCdASogABsAPmkqkkWkIqGYBgBABoSxgFh2EPuQqaNHzHSY6w45C4DavegOYxtlRsVXDgD++vsqLczkRyvlnxiEdWr6i2TLEf4t+AUhbC4tK2h6e8aA6A8vD8FMiuh8+6sZItR2vHMDctwzQ0YHtLgTFRri9d5qxPK/798TClGKz+f7hJPxkJI+edwcpj06j2PenP3SOB4zgq4Ym5A66OwVGnaAAAA=",
-                        "color": "#29251e",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 720,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769658157000_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769658157657_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190138,
-            "type": "reportage",
-            "title": "Две Daihatsu столкнулись на Совхозной",
-            "lead": "Инцидент произошел на улице Совхозной, недалеко от дома №2/1 по Шатова. Причиной стало несоблюдение безопасной дистанции.",
-            "publishedAt": "2026-01-29T11:07:00+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm00lUgkIqIhKAgAgA2JZQC7MxsYDCiBm2oc/s4kfceVZr8bbADYKtcMTj/8xAAA/vN1CY6Ajeuaw/9R9Y4DoUtwJFPXR4I+RyZEBuLlSBRh8lwE8HYLccfKU1VHhpAEw4AiAERfIstqXFdlimJehDN/HtCaVpMGPxBLdDFYfUyFJLfkLUJj/hy/y1iZfiBSUaJZBXweGanmrqHP2oAAAA==",
-                        "color": "#6b7184",
-                        "dark": true,
-                        "width": 800,
-                        "height": 449,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769646843117_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769646843785_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBgCdASogABsAPm00lUgkIqIhKAgAgA2JZQC7MxsYDCiBm2oc/s4kfceVZr8bbADYKtcMTj/8xAAA/vN1CY6Ajeuaw/9R9Y4DoUtwJFPXR4I+RyZEBuLlSBRh8lwE8HYLccfKU1VHhpAEw4AiAERfIstqXFdlimJehDN/HtCaVpMGPxBLdDFYfUyFJLfkLUJj/hy/y1iZfiBSUaJZBXweGanmrqHP2oAAAA==",
-                        "color": "#6b7184",
-                        "dark": true,
-                        "width": 800,
-                        "height": 449,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769646843117_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769646843785_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190129,
-            "type": "reportage",
-            "title": "Пожилая хабаровчанка лишилась денег из-за звонка о «бесплатных лекарствах»",
-            "lead": "Женщине позвонили неизвестные, предложив доставку бесплатных медикаментов, и выманили код из СМС. Затем ее убедили снять деньги и перевести на «безопасный» счет под предлогом защиты от мошенников.",
-            "publishedAt": "2026-01-29T10:41:00+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBQCdASogABsAPm0uk0YkIqGhKA1QgA2JQBibD24FOVPaEm2Rz3/VXy8PHSIcIHF4ce2WgAD+/sLI75mFlX95NhFCYub/RSiI1RTtuidcDNoWOBAKVEpyisR64eISED4OplNRupl5g9oqY2iDYGD39mEAMFm1a3MXbuIzVQfmTovK1/OTXEYTaAPAsTn/a/SfnVytTHeBYAAA",
-                        "color": "#d6dad7",
-                        "dark": false,
-                        "width": 999,
-                        "height": 562,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769642035501_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769642035926_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBQCdASogABsAPm0uk0YkIqGhKA1QgA2JQBibD24FOVPaEm2Rz3/VXy8PHSIcIHF4ce2WgAD+/sLI75mFlX95NhFCYub/RSiI1RTtuidcDNoWOBAKVEpyisR64eISED4OplNRupl5g9oqY2iDYGD39mEAMFm1a3MXbuIzVQfmTovK1/OTXEYTaAPAsTn/a/SfnVytTHeBYAAA",
-                        "color": "#d6dad7",
-                        "dark": false,
-                        "width": 999,
-                        "height": 562,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769642035501_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769642035926_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190084,
-            "type": "reportage",
-            "title": "Мясо и консервы пытался незаметно вынести из магазина житель Хабаровского края",
-            "lead": "Правоохранителям мужчина рассказал, что думал, что за ним никто не наблюдает, камеры он не заметил. Когда он направился к выходу, его остановили охранники и попросили вернуть похищенные товары. Теперь виновному грозит до двух лет тюрьмы.",
-            "publishedAt": "2026-01-28T14:22:00+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogABsAPmkqkkWkIqGYBgBABoSgCdMt4IocN6RBmc6FdBDImpldA/VSCeeUZ//vsbWAAP73VURsVw1cLQxzr9sjNaNHYv3EDdlohKnQQiwIPzRtqzFzU+KcHsxHa9Gygoz5W62wyXz1Vpk/cZq3U1IC72y29OWDMvTsNQ4yVKu311WGj83HOT2haPtFBjB9PvOeUh7KhMm0iocb7hoLhB4OZGbRt8vZKKcPnX8lanAGf5/4lDr+vZRnPYlG3sItEToEWWAs6rT/jM8ZtB8PC6zCerM8ii45lOFeWQmBwAA=",
-                        "color": "#605d4a",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 719,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769558933746_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769558934499_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogABsAPmkqkkWkIqGYBgBABoSgCdMt4IocN6RBmc6FdBDImpldA/VSCeeUZ//vsbWAAP73VURsVw1cLQxzr9sjNaNHYv3EDdlohKnQQiwIPzRtqzFzU+KcHsxHa9Gygoz5W62wyXz1Vpk/cZq3U1IC72y29OWDMvTsNQ4yVKu311WGj83HOT2haPtFBjB9PvOeUh7KhMm0iocb7hoLhB4OZGbRt8vZKKcPnX8lanAGf5/4lDr+vZRnPYlG3sItEToEWWAs6rT/jM8ZtB8PC6zCerM8ii45lOFeWQmBwAA=",
-                        "color": "#605d4a",
-                        "dark": true,
-                        "width": 1280,
-                        "height": 719,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769558933746_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769558934499_default"
-                        }
-                    }
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Происшествия",
-                    "slug": "incidents"
-                }
-            ],
-            "compilations": [],
-            "commentsCount": 0
-        },
-        {
-            "id": 190104,
-            "type": "reportage",
-            "title": "Гигантская пробка образовалась на Ленинградской из-за массового ДТП (ВИДЕО; ОБНОВЛЕНИЕ)",
-            "lead": "Инцидент произошел у дома 73б. В результате все полосы улицы оказались перекрыты, образовалась гигантская пробка. Точное количество участников аварии уточняется.",
-            "publishedAt": "2026-01-28T14:00:27+10:00",
-            "settings": {
-                "advert": false,
-                "commentsDisabled": true
-            },
-            "images": [
-                {
-                    "type": "main",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASogABsAPm0wlEckIqIhKAqogA2JbAC7AGjqCTPUbpQcFzUcKSdPWAwQqAAA/vCQKgxpmfzXmnVxVE5LfzL3/VNML6EJqEobKdCh8C3Y+Wr+DyJq9peqAQjvrcLuC0KzlRtNIUFf6Oreo7r9o+WL51fKMpjdqSfUQsOWYpVfJK2GgRBh1/4+1b5eP5VsqNRCFMgEnB4sd2T0i3LRUYAAAA==",
-                        "color": "#e3e5e9",
-                        "dark": false,
-                        "width": 1280,
-                        "height": 719,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769572465105_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769572465815_default"
-                        }
-                    }
-                },
-                {
-                    "type": "preview",
-                    "image": {
-                        "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASogABsAPm0wlEckIqIhKAqogA2JbAC7AGjqCTPUbpQcFzUcKSdPWAwQqAAA/vCQKgxpmfzXmnVxVE5LfzL3/VNML6EJqEobKdCh8C3Y+Wr+DyJq9peqAQjvrcLuC0KzlRtNIUFf6Oreo7r9o+WL51fKMpjdqSfUQsOWYpVfJK2GgRBh1/4+1b5eP5VsqNRCFMgEnB4sd2T0i3LRUYAAAA==",
-                        "color": "#e3e5e9",
-                        "dark": false,
-                        "width": 1280,
-                        "height": 719,
-                        "files": {
-                            "default": "https://cdn.dvhab.ru/news/1769572465105_default",
-                            "preview": "https://cdn.dvhab.ru/news/1769572465815_default"
                         }
                     }
                 }

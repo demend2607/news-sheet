@@ -1,6 +1,6 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 import json
-from utils import get_incidents
+from app.utils import get_incidents
 # --- 
 from pydantic import BaseModel
 from datetime import datetime
@@ -21,25 +21,43 @@ class Incident(BaseModel):
     date: datetime
     color: str | None
 # ---
+class Incidents(BaseModel):
+    # id: int
+    incidents: list[Incident]
 
 app = FastAPI()
 
-@app.get("/posts")
-def get_home():
-    incidents = get_incidents()
-    incident = incidents[0]
-        
-    post = Incident.model_validate(incident)
-    return {"data": post}
-
-# @app.get("/students/{date}")
-# def get_all_students_course(date: int):
+@app.get("/posts/")
+# def get_home():
 #     incidents = get_incidents()
-#     incident_data = incidents["date"][5:7]
-#     return_list = []
-#     for incident in incidents:
-#         if incident["course"] == incident:
-#             return_list.append(incident)
-#     return return_list
+    
+#     post = Incidents(incidents)
+#     return {"data": post}
 
 
+def get_posts_by_date(
+    id: int | None = Query(None, description="ID поста"),
+    year: int | None = Query(None, description="Год"),
+    month: int | None = Query(None, description="Месяц"),
+    day: int | None = Query(None, description="День")
+):
+    incidents = get_incidents()
+    sorted_incidents = []
+    
+    for incident in incidents:
+        date_obj = datetime.fromisoformat(incident["date"])
+        match = True
+        
+        if id is not None and incident["id"] != id:
+            match = False
+        if year is not None and date_obj.year != year:
+            match = False
+        if month is not None and date_obj.month != month:
+            match = False
+        if day is not None and date_obj.day != day:
+            match = False
+        
+        if match:
+            sorted_incidents.append(incident)
+    
+    return {"data": sorted_incidents}
