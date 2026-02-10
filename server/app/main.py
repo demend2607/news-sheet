@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query
 import json
-from app.utils import get_incidents
+from server.app.utils.utils import get_incidents
 # --- 
 from pydantic import BaseModel
 from datetime import datetime
@@ -36,7 +36,7 @@ app = FastAPI()
 
 
 def get_posts_by_date(
-    id: int | None = Query(None, description="ID поста"),
+    id: int | None = Query(None, description="ID"),
     year: int | None = Query(None, description="Год"),
     month: int | None = Query(None, description="Месяц"),
     day: int | None = Query(None, description="День")
