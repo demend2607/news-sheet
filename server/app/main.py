@@ -1,6 +1,9 @@
+import uvicorn
 from fastapi import FastAPI, Query
-import json
-from server.app.utils.utils import get_incidents
+from core.config import settings
+from api import router as api_router
+from utils.utils import get_incidents
+
 # --- 
 from pydantic import BaseModel
 from datetime import datetime
@@ -26,15 +29,12 @@ class Incidents(BaseModel):
     incidents: list[Incident]
 
 app = FastAPI()
+app.includer_router(
+    api_router,
+    prefix="/api",
+)
 
 @app.get("/posts/")
-# def get_home():
-#     incidents = get_incidents()
-    
-#     post = Incidents(incidents)
-#     return {"data": post}
-
-
 def get_posts_by_date(
     id: int | None = Query(None, description="ID"),
     year: int | None = Query(None, description="Год"),
@@ -61,3 +61,7 @@ def get_posts_by_date(
             sorted_incidents.append(incident)
     
     return {"data": sorted_incidents}
+
+
+if __name__ == "__main__":
+    uvicorn.run("main:app", host=settings.run.host, port=settings.run.port, reload=True)
