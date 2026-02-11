@@ -1,18 +1,83 @@
 [
     {
+        "id": 190590,
+        "title": "Осужденный уговорил приятеля изготовить и передать ему в колонию наркотики",
+        "description": "При этом фигуранты дела не подозревали, что телефонные разговоры прослушивают правоохранительные органы. Наркотики изъяли при попытке их перевозки. Мужчину осудили на четыре года.",
+        "date": "2026-02-10T19:02:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770691985729_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/10/190590/",
+        "categories": "incidents",
+        "color": "#7f8077"
+    },
+    {
+        "id": 190599,
+        "title": "В деле хабаровского конокрада разберется суд",
+        "description": "Прокуратура Хабаровского района утвердила обвинительное заключение в отношении местного жителя, который украл лошадь из конюшни в селе Краснореченском. Обвиняемый забил животное, а мясо частично продал и употребил в пищу.",
+        "date": "2026-02-10T17:12:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770698874921_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/10/190599/",
+        "categories": "incidents",
+        "color": "#493e2f"
+    },
+    {
+        "id": 190582,
+        "title": "Молодого наркодилера задержали после изъятия закладок со «скоростью»",
+        "description": "В Хабаровске задержан 19-летний безработный, подозреваемый в распространении N-метилэфедрона через закладки в Железнодорожном и Центральном районах. В день он раскладывал до 40 наркозакладок, оплату получал в криптовалюте.",
+        "date": "2026-02-10T14:11:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770687642190_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/10/190582/",
+        "categories": "incidents",
+        "color": "#d6dce6"
+    },
+    {
+        "id": 190571,
+        "title": "Мужчину задержали за оправдание терроризма в Хабаровском крае (ВИДЕО)",
+        "description": "Сотрудники УФСБ по Хабаровскому краю задержали 35-летнего уроженца Комсомольска-на-Амуре за размещение в интернете материалов, оправдывающих деятельность признанного в России террористическим украинского объединения.",
+        "date": "2026-02-10T11:39:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770680957831_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/10/190571/",
+        "categories": "incidents",
+        "color": "#181e29"
+    },
+    {
+        "id": 190565,
+        "title": "В Хабаровском крае с рельсов сошли 25 вагонов с углем (ОБНОВЛЕНИЕ; ФОТО)",
+        "description": "Поезд следовал в составе 71 вагона, 25 из них сошли с рельсов, 21 - перевернулся. Транспортная прокуратура проводи проверку.",
+        "date": "2026-02-10T08:52:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770682547024_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/10/190565/",
+        "categories": "incidents",
+        "color": "#030409"
+    },
+    {
+        "id": 190556,
+        "title": "Хабаровского предпринимателя будут судить за невыплату зарплат",
+        "description": "Прокуратура Индустриального района Хабаровска утвердила обвинительное заключение по делу о невыплате зарплаты 22 работникам на сумму более 2,8 млн рублей. Задолженность накапливалась с июля 2023 по март 2025 года.",
+        "date": "2026-02-09T19:30:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770614408648_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/09/190556/",
+        "categories": "incidents",
+        "color": "#77736a"
+    },
+    {
         "id": 190542,
         "title": "Организованная группа в Хабаровске содержала сауны-притоны для интимных услуг",
         "description": "Прокуратура утвердила обвинительный акт в отношении трех участников ОПГ, организовавшей в Хабаровске сеть притонов в саунах на Владивостокской и Льва Толстого. Услуги оказывались с марта 2023 по июль 2025 года по цене до 20 тысяч рублей в час.",
         "date": "2026-02-09T14:15:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770603024768_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/09/190542/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#b8a498"
+    },
+    {
+        "id": 190546,
+        "title": "На перекрестке Запарина и Амурского бульвара столкнулись две Toyota (ФОТО)",
+        "description": "На перекрестке улиц Запарина и Амурского бульвара в Хабаровске столкнулись автомобили Toyota Crown и Toyota Prius. От удара Prius отбросило на дерево, пассажирка Crown с жалобами на головную боль была госпитализирована.",
+        "date": "2026-02-09T13:24:00+10:00",
+        "images": "https://cdn.dvhab.ru/news/1770605983365_default",
+        "link": "https://www.dvnovosti.ru/incidents/2026/02/09/190546/",
+        "categories": "incidents",
+        "color": "#649ad7"
     },
     {
         "id": 190529,
@@ -21,12 +86,7 @@
         "date": "2026-02-09T11:22:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770595948440_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/09/190529/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#6a737a"
     },
     {
@@ -36,12 +96,7 @@
         "date": "2026-02-09T09:20:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770590590780_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/09/190521/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#d5a28b"
     },
     {
@@ -51,12 +106,7 @@
         "date": "2026-02-06T19:33:19+10:00",
         "images": "https://cdn.dvhab.ru/news/1770349683426_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/06/190475/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#bdc4da"
     },
     {
@@ -66,12 +116,7 @@
         "date": "2026-02-06T16:09:06+10:00",
         "images": "https://cdn.dvhab.ru/news/1770357597561_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/06/190485/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#7a7a75"
     },
     {
@@ -81,12 +126,7 @@
         "date": "2026-02-06T15:23:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770347815300_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/06/190472/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#9a9aa8"
     },
     {
@@ -96,12 +136,7 @@
         "date": "2026-02-06T12:43:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770340338111_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/06/190458/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#80826b"
     },
     {
@@ -111,12 +146,7 @@
         "date": "2026-02-06T09:29:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770332109887_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/06/190447/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#826033"
     },
     {
@@ -126,12 +156,7 @@
         "date": "2026-02-05T19:27:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770261463221_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190427/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#576855"
     },
     {
@@ -141,12 +166,7 @@
         "date": "2026-02-05T17:54:15+10:00",
         "images": "https://cdn.dvhab.ru/news/1770277984017_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190442/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#9da5b2"
     },
     {
@@ -156,12 +176,7 @@
         "date": "2026-02-05T16:46:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770259608426_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190424/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#c9ebf8"
     },
     {
@@ -171,12 +186,7 @@
         "date": "2026-02-05T15:55:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770263592899_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190429/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#161b20"
     },
     {
@@ -186,12 +196,7 @@
         "date": "2026-02-05T14:45:55+10:00",
         "images": "https://cdn.dvhab.ru/news/1770266078734_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190434/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#5c7089"
     },
     {
@@ -201,12 +206,7 @@
         "date": "2026-02-05T13:58:16+10:00",
         "images": "https://cdn.dvhab.ru/news/1770263661825_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190430/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#626160"
     },
     {
@@ -216,12 +216,7 @@
         "date": "2026-02-05T13:14:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770260075038_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190425/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#d6e0ee"
     },
     {
@@ -231,12 +226,7 @@
         "date": "2026-02-05T12:51:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770246880167_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190398/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#85bda1"
     },
     {
@@ -246,12 +236,7 @@
         "date": "2026-02-05T12:00:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770252797088_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190413/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#0f0f14"
     },
     {
@@ -261,12 +246,7 @@
         "date": "2026-02-05T11:04:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770250175642_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190407/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#8388a0"
     },
     {
@@ -276,12 +256,7 @@
         "date": "2026-02-05T09:41:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770247027515_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/05/190399/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#646e76"
     },
     {
@@ -291,12 +266,7 @@
         "date": "2026-02-04T19:26:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770183891987_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190386/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#020202"
     },
     {
@@ -306,12 +276,7 @@
         "date": "2026-02-04T13:15:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770173369366_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190375/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#617581"
     },
     {
@@ -321,12 +286,7 @@
         "date": "2026-02-04T12:28:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770164486549_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190356/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#577588"
     },
     {
@@ -336,12 +296,7 @@
         "date": "2026-02-04T11:52:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770163833236_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190354/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#f3f4f6"
     },
     {
@@ -351,12 +306,7 @@
         "date": "2026-02-04T10:29:35+10:00",
         "images": "https://cdn.dvhab.ru/news/1770164872405_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190358/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#699bda"
     },
     {
@@ -366,12 +316,7 @@
         "date": "2026-02-04T09:21:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770158632329_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/04/190348/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#72513d"
     },
     {
@@ -381,12 +326,7 @@
         "date": "2026-02-03T19:01:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770095790106_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190335/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#878374"
     },
     {
@@ -396,12 +336,7 @@
         "date": "2026-02-03T16:05:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770100106955_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190331/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#878a7c"
     },
     {
@@ -411,12 +346,7 @@
         "date": "2026-02-03T13:56:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770083379196_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190320/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#020202"
     },
     {
@@ -426,12 +356,7 @@
         "date": "2026-02-03T13:05:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770079525628_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190312/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#686459"
     },
     {
@@ -441,12 +366,7 @@
         "date": "2026-02-03T10:40:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770072582074_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190303/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#dee1e2"
     },
     {
@@ -456,12 +376,7 @@
         "date": "2026-02-03T09:40:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770071474839_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/03/190301/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#68778b"
     },
     {
@@ -471,12 +386,7 @@
         "date": "2026-02-02T18:28:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769998066303_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190272/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#cbc2c9"
     },
     {
@@ -486,12 +396,7 @@
         "date": "2026-02-02T16:41:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769994822693_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190267/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#606d7d"
     },
     {
@@ -501,12 +406,7 @@
         "date": "2026-02-02T16:02:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770009478511_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190292/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#90857f"
     },
     {
@@ -516,12 +416,7 @@
         "date": "2026-02-02T15:23:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770009239177_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190291/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#68788b"
     },
     {
@@ -531,12 +426,7 @@
         "date": "2026-02-02T14:06:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1770001878444_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190279/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#868f9c"
     },
     {
@@ -546,12 +436,7 @@
         "date": "2026-02-02T13:09:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769994608084_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190266/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#a8af98"
     },
     {
@@ -561,12 +446,7 @@
         "date": "2026-02-02T12:21:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769992905496_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190262/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#e9fbe5"
     },
     {
@@ -576,12 +456,7 @@
         "date": "2026-02-02T11:26:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769993131153_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/02/02/190264/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#7f95b5"
     },
     {
@@ -591,12 +466,7 @@
         "date": "2026-01-31T14:29:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769833134307_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/01/31/190229/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#6b7d82"
     },
     {
@@ -606,12 +476,7 @@
         "date": "2026-01-31T13:07:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769830338883_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/01/31/190226/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#7a6758"
     },
     {
@@ -621,12 +486,7 @@
         "date": "2026-01-30T19:19:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769735685253_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190192/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#8ed6b7"
     },
     {
@@ -636,117 +496,7 @@
         "date": "2026-01-30T15:37:00+10:00",
         "images": "https://cdn.dvhab.ru/news/1769729609841_default",
         "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190179/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
+        "categories": "incidents",
         "color": "#738b7b"
-    },
-    {
-        "id": 190193,
-        "title": "Полицейские проводят проверку из-за драки с водителем автобуса",
-        "description": "В настоящее время устанавливаются все обстоятельства произошедшего. Отмечается, что полицейские проверят легальность пребывания водителя общественного транспорта на территории РФ.",
-        "date": "2026-01-30T13:21:00+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769737201120_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190193/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#80817d"
-    },
-    {
-        "id": 190194,
-        "title": "Автобус и три легковушки столкнулись на Волочаевской (ФОТО)",
-        "description": "Водитель Honda CR-V, пытаясь избежать столкновения с резко затормозившей впереди машиной, вывернул вправо и ударил автобус, а затем задел еще две Toyota. В общественном транспорте находилось 8 пассажиров, пострадавших нет.",
-        "date": "2026-01-30T11:50:42+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769737485069_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190194/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#616d70"
-    },
-    {
-        "id": 190185,
-        "title": "Жительница села Восточное зарезала собутыльника во время ссоры",
-        "description": "Конфликт произошел в сентябре 2025 года во время совместного распития спиртного. Когда компания ушла за добавкой, обвиняемая в ссоре нанесла потерпевшему смертельный удар ножом в грудь.",
-        "date": "2026-01-30T11:33:00+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769731458732_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190185/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#dedad0"
-    },
-    {
-        "id": 190165,
-        "title": "За мошенничество и посредничество во взяточничестве осудили двух хабаровчан",
-        "description": "Мужчины обещали четырем гражданам помочь со сдачей экзамена в ГАИ. Для этого обвиняемые получили более 200 тысяч рублей, которые якобы собирались передать сотрудникам Госавтоинспекции.",
-        "date": "2026-01-30T10:00:00+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769664647742_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/30/190165/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#6e481e"
-    },
-    {
-        "id": 190171,
-        "title": "Энергоблок № 3 остановлен на хабаровской ТЭЦ-3 из-за пожара",
-        "description": "Наблюдается небольшой спад по давлению, но угрозы для населения в части отключения теплоснабжения и электричества нет.",
-        "date": "2026-01-29T18:25:30+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769674985780_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/29/190171/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#6a727f"
-    },
-    {
-        "id": 190160,
-        "title": "Ранее осужденный за убийство житель Хабаровского края украл деньги из банкомата",
-        "description": "Ущерб составил порядка 100 тысяч рублей. Теперь мужчине грозит до пяти лет тюрьмы.",
-        "date": "2026-01-29T16:16:00+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769662709108_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/29/190160/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#a5a4a1"
-    },
-    {
-        "id": 190167,
-        "title": "Есть погибшие: пожар произошел на ТЭЦ-3 в Хабаровске (ФОТО; ВИДЕО; ОБНОВЛЕНИЕ)",
-        "description": "По предварительным данным, горела крыша одного из корпусов, где велись кровельные работы. Два человека погибли, еще два пострадали.",
-        "date": "2026-01-29T15:47:28+10:00",
-        "images": "https://cdn.dvhab.ru/news/1769673809449_default",
-        "link": "https://www.dvnovosti.ru/incidents/2026/01/29/190167/",
-        "categories": [
-            {
-                "name": "Происшествия",
-                "slug": "incidents"
-            }
-        ],
-        "color": "#778088"
     }
 ]

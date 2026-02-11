@@ -64,7 +64,7 @@ def prepare_data():
                 'date': publishedAt,
                 'images': story['images'][0]["image"]["files"]["default"],
                 "link": link,
-                'categories': story['categories'],
+                'categories': story['categories'][0]['slug'],
                 'color': story['images'][0]['image']['color'],})  
             
             iteraction += 1
