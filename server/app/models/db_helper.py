@@ -23,7 +23,7 @@ SYNC_DB_URL = f"postgresql://{DB['user']}:{DB['password']}@{DB['host']}:{DB['por
 class DatabaseHelper:
     def __init__(
             self,
-            url: str = ASYNC_DB_URL,
+            url: str,
             echo: bool = False,
             echo_pool: bool = False,
             max_overflow: int = 10,
@@ -52,7 +52,7 @@ class DatabaseHelper:
 
 
 db_helper = DatabaseHelper(
-    url=settings.db.url,
+    url=str(settings.db.url),
     echo=settings.db.echo,
     echo_pool=settings.db.echo_pool,
     max_overflow=settings.db.max_overflow,

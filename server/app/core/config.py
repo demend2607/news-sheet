@@ -1,25 +1,5 @@
 from pydantic import BaseModel, PostgresDsn
-from pydantic_settings import BaseSettings
-
-from dotenv import load_dotenv
-import os
-
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-DB = {
-    "user": os.getenv("DB_USER"),
-    "host": os.getenv("DB_HOST"),
-    "port": os.getenv("DB_PORT"),
-    "name": os.getenv("DB_NAME"),
-    "password": os.getenv("DB_PASSWORD")
-}
-
-ASYNC_DB_URL = f"postgresql+asyncpg://{DB['user']}:{DB['password']}@{DB['host']}:{DB['port']}/{DB['name']}"
-# sync db for alembic migrations
-SYNC_DB_URL = f"postgresql://{DB['user']}:{DB['password']}@{DB['host']}:{DB['port']}/{DB['name']}"
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class RunConfig(BaseModel):
@@ -28,11 +8,11 @@ class RunConfig(BaseModel):
 
 
 class DatabaseConfig(BaseModel):
-    url: str = ASYNC_DB_URL
-    echo: bool = False,
-    echo_pool: bool = False,
-    pool_size = 10,
-    max_overflow = 10
+    url: PostgresDsn
+    echo: bool = False
+    echo_pool: bool = False
+    pool_size: int = 10
+    max_overflow: int = 10
 
 
 class ApiPrefix(BaseModel):
@@ -40,6 +20,8 @@ class ApiPrefix(BaseModel):
 
 
 class Settings(BaseSettings):
+    model_config = SettingsConfigDict(
+        case_sensitive=False, env_file=".env", env_nested_delimiter="__", env_prefix="APP_CONFIG__", )
     run: RunConfig = RunConfig()
     api: ApiPrefix = ApiPrefix()
     db: DatabaseConfig
