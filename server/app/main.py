@@ -1,9 +1,9 @@
 import uvicorn
 from fastapi import FastAPI, Query
 
-from core.config import settings
+from core import settings
 from api import router as api_router
-from server.app.models.db_helper import db_helper
+from models import db_helper
 
 
 async def lifespan(app: FastAPI):
