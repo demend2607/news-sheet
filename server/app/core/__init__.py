@@ -1,3 +1,3 @@
-from .config import settings
+__all__ = ["settings"]
 
-print("Initializing core...")
+from .config import settings

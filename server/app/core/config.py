@@ -8,8 +8,9 @@ class RunConfig(BaseModel):
 
 
 class DatabaseConfig(BaseModel):
-    url: PostgresDsn
-    echo: bool = False
+    sync_url: PostgresDsn
+    async_url: PostgresDsn
+    echo: bool = True
     echo_pool: bool = False
     pool_size: int = 10
     max_overflow: int = 10
@@ -21,7 +22,7 @@ class ApiPrefix(BaseModel):
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        case_sensitive=False, env_file=".env", env_nested_delimiter="__", env_prefix="APP_CONFIG__", )
+        env_file=".env", extra="ignore", env_nested_delimiter="__")
     run: RunConfig = RunConfig()
     api: ApiPrefix = ApiPrefix()
     db: DatabaseConfig

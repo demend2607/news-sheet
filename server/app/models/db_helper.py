@@ -1,33 +1,17 @@
+from typing import AsyncGenerator
 from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker, create_async_engine
-from sqlalchemy.orm import declarative_base
 
 from core.config import settings
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-DB = {
-    "user": os.getenv("DB_USER"),
-    "host": os.getenv("DB_HOST"),
-    "port": os.getenv("DB_PORT"),
-    "name": os.getenv("DB_NAME"),
-    "password": os.getenv("DB_PASSWORD")
-}
-
-ASYNC_DB_URL = f"postgresql+asyncpg://{DB['user']}:{DB['password']}@{DB['host']}:{DB['port']}/{DB['name']}"
-# sync db for alembic migrations
-SYNC_DB_URL = f"postgresql://{DB['user']}:{DB['password']}@{DB['host']}:{DB['port']}/{DB['name']}"
 
 
 class DatabaseHelper:
     def __init__(
             self,
             url: str,
-            echo: bool = False,
-            echo_pool: bool = False,
-            max_overflow: int = 10,
-            pool_size: int = 10):
+            echo: bool = settings.db.echo,
+            echo_pool: bool = settings.db.echo_pool,
+            max_overflow: int = settings.db.max_overflow,
+            pool_size: int = settings.db.pool_size,):
         self.engine = create_async_engine(
             url,
             echo=echo,
@@ -43,16 +27,16 @@ class DatabaseHelper:
             expire_on_commit=False
         )
 
-    async def dispose(self):
+    async def dispose(self) -> None:
         await self.engine.dispose()
 
-    async def session_getter(self):
+    async def get_session(self) -> AsyncGenerator[AsyncSession, None]:
         async with self.async_session() as session:
             yield session
 
 
 db_helper = DatabaseHelper(
-    url=str(settings.db.url),
+    url=str(settings.db.async_url),
     echo=settings.db.echo,
     echo_pool=settings.db.echo_pool,
     max_overflow=settings.db.max_overflow,

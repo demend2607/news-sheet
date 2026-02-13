@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import FastAPI, Query
+from fastapi import FastAPI
 
 from core import settings
 from api import router as api_router
@@ -8,7 +8,6 @@ from models import db_helper
 
 async def lifespan(app: FastAPI):
     yield
-    print("shutdown")
     await db_helper.dispose()
 
 
