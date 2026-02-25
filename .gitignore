@@ -1,4 +1,4 @@
-# OS / IDE
+﻿# OS / IDE
 .DS_Store
 Thumbs.db
 .idea/
@@ -77,4 +77,3 @@ docker-volumes/
 docker-compose.override.yml
 
 # Build artifacts
-**/.dockerignore

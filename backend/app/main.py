@@ -3,11 +3,14 @@ from fastapi import FastAPI
 
 from core import settings
 from api import router as api_router
-from models import db_helper
+from models import db_helper, Base
 
 
 async def lifespan(app: FastAPI):
+    async with db_helper.engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
     yield
+
     await db_helper.dispose()
 
 
