@@ -1,13 +1,15 @@
-from pydantic import BaseModel, HttpUrl
 from datetime import datetime
+from pydantic import BaseModel, ConfigDict, HttpUrl
 
 
 class Incident(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
     id: int
     title: str
-    description: str | None
-    date: datetime
-    images: HttpUrl | None
+    description: str
+    date_raw: str
+    date_ts: datetime
+    images: HttpUrl
     link: HttpUrl
     categories: str | None
     color: str | None

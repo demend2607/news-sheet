@@ -77,3 +77,4 @@ docker-volumes/
 docker-compose.override.yml
 
 # Build artifacts
+backend/app/parser/incidents.json
