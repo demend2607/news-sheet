@@ -11,7 +11,7 @@ from .insert import insert_incidents
 def write_json_snapshot(rows: list[dict[str, Any]]) -> None:
     # datetime в JSON напрямую не сериализуется, переводим в ISO-строку.
     payload = [{**r, "date_ts": r["date_ts"].isoformat()} for r in rows]
-    with open('incidents.json', "w", encoding="utf-8") as f:
+    with open('services/incidents/incidents.json', "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=4, ensure_ascii=False)
 
 

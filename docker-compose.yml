@@ -2,7 +2,7 @@ services:
   db:
     image: postgres:17
     container_name: news-sheet-db
-    restart: unless-stopped
+    restart: no
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
       POSTGRES_USER: ${POSTGRES_USER}
@@ -22,7 +22,7 @@ services:
       context: ./backend
       dockerfile: Dockerfile
     container_name: news-sheet-backend
-    restart: unless-stopped
+    restart: no
     depends_on:
       db:
         condition: service_healthy
@@ -37,13 +37,31 @@ services:
     ports:
       - "8000:8000"
     working_dir: /app/app
-
+  scheduler:
+    image: news-sheet_scheduler
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: news-sheet-scheduler
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB__ASYNC_URL: ${DB_ASYNC_URL}
+      DB__SYNC_URL: ${DB_SYNC_URL}
+      PYTHONPATH: /app/app
+    volumes:
+      - ./backend:/app
+    working_dir: /app/app
+    command: >
+      sh -c "echo '0 10 * * * root cd /app/app && PYTHONPATH=/app/app python services.incidents.sync_db >> /proc/1/fd/1 2>&1' > /etc/cron.d/parser-job && chmod 0644 /etc/cron.d/parser-job && cron -f"
   frontend:
+    image: news-sheet_frontend
     build:
       context: ./frontend
       dockerfile: Dockerfile
     container_name: news-sheet-frontend
-    restart: unless-stopped
+    restart: no
     depends_on:
       - backend
     environment:
