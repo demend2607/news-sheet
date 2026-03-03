@@ -37,7 +37,7 @@ services:
     ports:
       - "8000:8000"
     working_dir: /app/app
-    entrypoint: ["/app/entrypoints/backend-entrypoint.sh"]
+    # entrypoint: ["/app/entrypoints/backend-entrypoint.sh"]
 
   scheduler:
     image: news-sheet_scheduler

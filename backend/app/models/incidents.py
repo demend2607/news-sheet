@@ -13,9 +13,9 @@ class Incident(Base):
     title: Mapped[str] = mapped_column(String(500), nullable=False, index=True)
     description: Mapped[str | None] = mapped_column(
         Text, nullable=False)
-
-    date: Mapped[str] = mapped_column(
-        String(50), nullable=False, index=True)
+    date: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), nullable=False, index=True)
+    # date: Mapped[str] = mapped_column(String(50), nullable=False, index=True)
 
     images: Mapped[str | None] = mapped_column(String(500), nullable=False)
     link: Mapped[str] = mapped_column(

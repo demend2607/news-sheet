@@ -7,7 +7,7 @@ class IncidentOut(BaseModel):
     id: int
     title: str
     description: str | None
-    date: str
+    date: datetime
     images: HttpUrl | None
     link: HttpUrl
     categories: str | None

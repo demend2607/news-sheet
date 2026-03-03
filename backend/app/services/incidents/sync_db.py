@@ -9,8 +9,9 @@ from .insert import insert_incidents
 
 
 def write_json_snapshot(rows: list[dict[str, Any]]) -> None:
+    payload = [{**r, "date": r["date"].isoformat()} for r in rows]
     with open('services/incidents/incidents.json', "w", encoding="utf-8") as f:
-        json.dump(rows, f, indent=4, ensure_ascii=False)
+        json.dump(payload, f, indent=4, ensure_ascii=False)
 
 
 async def save_to_db(rows: list[dict]) -> int:

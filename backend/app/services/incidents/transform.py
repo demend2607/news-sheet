@@ -7,8 +7,8 @@ URL = 'https://www.dvnovosti.ru/ajax/v1/content/category/incidents/'
 
 
 def incident_dict(story: dict[str, Any]) -> dict[str, Any]:
-    publishedAT = story["publishedAt"]
-
+    publishedAt = story["publishedAt"]
+    date_value = datetime.fromisoformat(publishedAt)
     images = story.get("images") or []
     image_url = None
     color = None
@@ -23,9 +23,9 @@ def incident_dict(story: dict[str, Any]) -> dict[str, Any]:
         "id": story["id"],
         "title": story["title"],
         "description": story.get("lead"),
-        "date": publishedAT,
+        "date": date_value,
         "images": image_url,
-        "link": f"https://www.dvnovosti.ru/incidents/{publishedAT[0:4]}/{publishedAT[5:7]}/{publishedAT[8:10]}/{story['id']}/",
+        "link": f"https://www.dvnovosti.ru/incidents/{publishedAt[0:4]}/{publishedAt[5:7]}/{publishedAt[8:10]}/{story['id']}/",
         "categories": category,
         "color": color,
     }

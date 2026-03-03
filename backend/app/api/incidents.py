@@ -5,6 +5,8 @@ from sqlalchemy import select, extract
 
 from models import db_helper, Incident
 
+import logging
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/incidents")
 
@@ -19,13 +21,17 @@ async def get_incidents(
     db: AsyncSession = Depends(get_db_session),
     month: int | None = Query(None, description="Month", ge=1, le=12),
 ):
-    query = select(Incident).order_by(Incident.date_ts.desc())
-
+    # "date": "2026-03-03T10:02:00+10:00", how extract datetime?
+    # dt = datetime.fromisoformat('month', "2026-03-03T10:02:00+10:00")
+    query = select(Incident).order_by(Incident.date.desc()).limit(20)
     if month:
-        query = query.where(extract("month", Incident.date_ts) == month)
+        query = query.filter(extract("month", Incident.date) == month)
 
-    result = await db.execute(query)
-    return result.scalars().all()
+    query_result = await db.execute(query)
+    incidents_result = query_result.scalars().all()
+    if incidents_result == []:
+        return {f'No incidents found in month: {month}'}
+    return incidents_result
 
 
 @router.get("/{day}/")
@@ -36,7 +42,7 @@ async def get_incident(
 ):
     # "date_raw": "2026-03-02T15:15:00+10:00",
     # "date_ts": "2026-03-02T15:15:00+10:00",
-    query = select(Incident).where(Incident.date_ts == day)
+    query = select(Incident).where(Incident.date == day)
     result = await db.execute(query)
     incident = result.scalars().one_or_none()
 

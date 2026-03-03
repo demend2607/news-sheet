@@ -3,7 +3,7 @@ from fastapi import FastAPI
 
 from core import settings
 from api import router as api_router
-from models import db_helper, Base
+from models import db_helper
 
 
 async def lifespan(app: FastAPI):
