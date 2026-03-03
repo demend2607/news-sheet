@@ -37,12 +37,15 @@ services:
     ports:
       - "8000:8000"
     working_dir: /app/app
+    entrypoint: ["/app/entrypoints/backend-entrypoint.sh"]
+
   scheduler:
     image: news-sheet_scheduler
     build:
       context: ./backend
       dockerfile: Dockerfile
     container_name: news-sheet-scheduler
+    restart: no
     depends_on:
       db:
         condition: service_healthy
@@ -53,8 +56,7 @@ services:
     volumes:
       - ./backend:/app
     working_dir: /app/app
-    command: >
-      sh -c "echo '0 10 * * * root cd /app/app && PYTHONPATH=/app/app python services.incidents.sync_db >> /proc/1/fd/1 2>&1' > /etc/cron.d/parser-job && chmod 0644 /etc/cron.d/parser-job && cron -f"
+    entrypoint: ["/app/entrypoints/scheduler-entrypoint.sh"]
   frontend:
     image: news-sheet_frontend
     build:
