@@ -31,13 +31,11 @@ services:
       RUN__PORT: 8000
       DB__ASYNC_URL: ${DB_ASYNC_URL}
       DB__SYNC_URL: ${DB_SYNC_URL}
-      DB__ECHO: "true"
     volumes:
       - ./backend:/app
     ports:
       - "8000:8000"
     working_dir: /app/app
-    # entrypoint: ["/app/entrypoints/backend-entrypoint.sh"]
 
   scheduler:
     image: news-sheet_scheduler
