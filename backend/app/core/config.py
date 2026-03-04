@@ -7,6 +7,16 @@ class RunConfig(BaseModel):
     port: int = 8000
 
 
+class ApiV1Prefix(BaseModel):
+    prefix: str = "/v1"
+    incidents: str = "/incidents"
+
+
+class ApiPrefix(BaseModel):
+    prefix: str = "/api"
+    v1: ApiV1Prefix = ApiV1Prefix()
+
+
 class DatabaseConfig(BaseModel):
     sync_url: PostgresDsn
     async_url: PostgresDsn
@@ -14,10 +24,6 @@ class DatabaseConfig(BaseModel):
     echo_pool: bool = False
     pool_size: int = 10
     max_overflow: int = 10
-
-
-class ApiPrefix(BaseModel):
-    prefix: str = "/api"
 
 
 class Settings(BaseSettings):

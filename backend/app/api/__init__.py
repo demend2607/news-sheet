@@ -1,6 +1,7 @@
+from core.config import settings
+from .api_v1 import router as router_api_v1
 
 from fastapi import APIRouter
-from .incidents import router as incidents_router
 
-router = APIRouter()
-router.include_router(incidents_router)
+router = APIRouter(prefix=settings.api.prefix,)
+router.include_router(router_api_v1)
