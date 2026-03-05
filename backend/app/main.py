@@ -1,5 +1,7 @@
 import uvicorn
 from fastapi import FastAPI
+from fastapi.responses import ORJSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 from core import settings
 from api import router as api_router
@@ -11,7 +13,14 @@ async def lifespan(app: FastAPI):
     await db_helper.dispose()
 
 
-main_app = FastAPI(lifespan=lifespan)
+main_app = FastAPI(default_response_class=ORJSONResponse, lifespan=lifespan)
+main_app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 main_app.include_router(
     api_router,
 )

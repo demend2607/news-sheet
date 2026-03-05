@@ -16,7 +16,7 @@ async def get_db_session():
 @router.get("")
 async def get_incidents(
     db: AsyncSession = Depends(get_db_session),
-    limit: int = Query(30, ge=1, le=100),
+    limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
     sort_by: str = Query(
         "date", description="Поле для сортировки (date, id, title)"),
@@ -36,7 +36,6 @@ async def get_incidents(
     result = await db.execute(query)
     incidents = result.scalars().all()
     return incidents
-    return incidents_result
 
 
 @router.get("/{id}")
