@@ -1,0 +1,2 @@
+# To prevent breaking the extrypoints 
+*.sh text eol=lf
