@@ -4,6 +4,7 @@ from sqlalchemy import asc, desc, select
 
 from core.config import settings
 from models import db_helper, Incident
+from schemas.incidents import IncidentOut
 
 router = APIRouter(prefix=settings.api.v1.incidents, tags=["Incidents"])
 
@@ -13,7 +14,7 @@ async def get_db_session():
         yield session
 
 
-@router.get("")
+@router.get("", response_model=list[IncidentOut])
 async def get_incidents(
     db: AsyncSession = Depends(get_db_session),
     limit: int = Query(20, ge=1, le=100),
@@ -31,14 +32,14 @@ async def get_incidents(
     order_func = desc if order.lower() == "desc" else asc
 
     query = select(Incident).order_by(order_func(
-        getattr(Incident, sort_by))).limit(limit).offset(offset)
+        getattr(Incident, sort_by))).limit(limit).offset(offset * limit)
 
     result = await db.execute(query)
     incidents = result.scalars().all()
     return incidents
 
 
-@router.get("/{id}")
+@router.get("/{id}", response_model=IncidentOut)
 async def get_incident_by_id(
     id: int,
     db: AsyncSession = Depends(get_db_session),

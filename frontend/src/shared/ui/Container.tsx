@@ -1,3 +1,3 @@
-export default function Container({ children, className }: { children: React.ReactNode; className?: string }) {
+export default function Container({ children }: { children: React.ReactNode }) {
   return <div className="wrapper">{children}</div>;
 }

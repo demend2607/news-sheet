@@ -4,6 +4,7 @@ import useEmblaCarousel from "embla-carousel-react";
 import { ChevronLeftIcon, ChevronRightIcon } from "@radix-ui/react-icons";
 
 import "./carousel.css";
+import Link from "next/link";
 
 export default function Carousel() {
   const [emblaRef, emblaApi] = useEmblaCarousel({
@@ -22,7 +23,7 @@ export default function Carousel() {
               <div className="carousel__item">
                 <div className="post__category">Category</div>
                 <div className="post__link">
-                  <a href="/">Link to post</a>
+                  <Link href="/">Link to post</Link>
                 </div>
                 <ul className="post__info">
                   <li>autor</li>
