@@ -39,9 +39,7 @@ h4 {
   unicode-bidi: isolate;
 }
 
-a {
-  text-decoration: none;
-}
+
 
 .logo h2 em {
   @apply text-orange text-[36px];
@@ -61,33 +59,4 @@ a {
 
 ul {
   list-style: none;
-}
-
-.navbar {
-  z-index: 99999;
-  position: absolute;
-  top: 80px;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  background-color: #fff;
-  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
-}
-
-.navbar__list {
-  display: flex;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-}
-
-.navbar__item {
-  border-bottom: 1px solid #eee;
-}
-
-.navbar__item a {
-  display: block;
-  @apply py-4 uppercase tracking-[0.5];
 }
