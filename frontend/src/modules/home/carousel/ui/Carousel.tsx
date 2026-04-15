@@ -3,10 +3,12 @@
 import useEmblaCarousel from "embla-carousel-react";
 import { ChevronLeftIcon, ChevronRightIcon } from "@radix-ui/react-icons";
 
-import "./carousel.css";
-import Link from "next/link";
+import CarouselSlide from "./CarouselSlide";
+import { Incident } from "@/entities/incidents/model/types";
 
-export default function Carousel() {
+import "./carousel.css";
+
+export default function Carousel({ incidents }: { incidents: Incident[] }) {
   const [emblaRef, emblaApi] = useEmblaCarousel({
     loop: true,
   });
@@ -19,23 +21,9 @@ export default function Carousel() {
       <div className="embla">
         <div className="embla__viewport" ref={emblaRef}>
           <div className="embla__container">
-            <div className="embla__slide">
-              <div className="carousel__item">
-                <div className="post__category">Category</div>
-                <div className="post__link">
-                  <Link href="/">Link to post</Link>
-                </div>
-                <ul className="post__info">
-                  <li>autor</li>
-                  <li>data</li>
-                  <li>comments</li>
-                </ul>
-              </div>
-            </div>
-            <div className="embla__slide"></div>
-            <div className="embla__slide"></div>
-            <div className="embla__slide"></div>
-            <div className="embla__slide"></div>
+            {incidents.map((incident) => (
+              <CarouselSlide key={incident.id} incident={incident} />
+            ))}
           </div>
         </div>
         <div className="embla__buttons">
