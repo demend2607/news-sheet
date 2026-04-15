@@ -13,7 +13,7 @@ export class ApiClient {
     private defaultHeaders: HeadersInit = { "Content-Type": "application/json" },
   ) {}
 
-  private async request<T>(method: HttpMethod, path: string, config?: RequestConfig, body?: any): Promise<T> {
+  private async request<T>(method: HttpMethod, path: string, body?: any, config?: RequestConfig): Promise<T> {
     let url = `${this.baseUrl}${path}`;
 
     if (config?.params) {
@@ -44,9 +44,9 @@ export class ApiClient {
     return this.request<T>("GET", path);
   }
 
-  update<T>(path: string, body: any) {
-    return this.request<T>("PUT", path, body);
-  }
+  // update<T>(path: string, body: any) {
+  //   return this.request<T>("PUT", path, body);
+  // }
 }
 
 export const api = new ApiClient(env.API_BASE);
